@@ -1,9 +1,9 @@
 {
-  "update": "20250915T224727+0800",
+  "update": "20250915T231300+0800",
   "duplicate": {},
   "stats": {
     "total": 6401,
-    "download": 900,
+    "download": 1000,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -14824,6 +14824,42 @@
       "my_file": "mobile"
     },
     {
+      "bbbs": "4028abcc612777930161287185e82f98",
+      "title": "唐山市农村集体资产管理条例",
+      "gbrq": "2010-10-08",
+      "sxrq": "2010-10-08",
+      "sxx": 3,
+      "zdjgName": "唐山市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T224512+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "4028abcc612777930161287b5a18379d",
+      "title": "唐山市献血用血条例",
+      "gbrq": "2010-10-08",
+      "sxrq": "2010-10-08",
+      "sxx": 3,
+      "zdjgName": "唐山市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T224512+0800",
+      "my_file": "mobile"
+    },
+    {
       "bbbs": "4028abcc612777930161286033511f52",
       "title": "唐山市市政工程设施管理条例",
       "gbrq": "2010-10-08",
@@ -14948,42 +14984,6 @@
       "my_status": 200,
       "my_time": "20250915T224512+0800",
       "my_file": "唐山市陡河水库饮用水水源保护区污染防治管理条例_20101008.docx"
-    },
-    {
-      "bbbs": "4028abcc612777930161287185e82f98",
-      "title": "唐山市农村集体资产管理条例",
-      "gbrq": "2010-10-08",
-      "sxrq": "2010-10-08",
-      "sxx": 3,
-      "zdjgName": "唐山市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250915T224512+0800",
-      "my_file": "mobile"
-    },
-    {
-      "bbbs": "4028abcc612777930161287b5a18379d",
-      "title": "唐山市献血用血条例",
-      "gbrq": "2010-10-08",
-      "sxrq": "2010-10-08",
-      "sxx": 3,
-      "zdjgName": "唐山市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250915T224512+0800",
-      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161284847df0758",
@@ -15310,24 +15310,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "4028abcc6127779301612812b05b5336",
-      "title": "邯郸市建筑垃圾处置条例",
-      "gbrq": "2012-05-30",
-      "sxrq": "2012-08-01",
-      "sxx": 2,
-      "zdjgName": "邯郸市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250915T224512+0800",
-      "my_file": "邯郸市建筑垃圾处置条例_20120530.docx"
-    },
-    {
       "bbbs": "4028abcc6127779301612816711f572b",
       "title": "邯郸市城市市容和环境卫生条例",
       "gbrq": "2012-05-30",
@@ -15344,6 +15326,24 @@
       "my_status": 200,
       "my_time": "20250915T224512+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "4028abcc6127779301612812b05b5336",
+      "title": "邯郸市建筑垃圾处置条例",
+      "gbrq": "2012-05-30",
+      "sxrq": "2012-08-01",
+      "sxx": 2,
+      "zdjgName": "邯郸市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T224512+0800",
+      "my_file": "邯郸市建筑垃圾处置条例_20120530.docx"
     },
     {
       "bbbs": "4028abcc612777930161280d924e4e06",
@@ -15544,24 +15544,6 @@
       "my_file": "河北省实施《中华人民共和国文物保护法》办法_20140530.docx"
     },
     {
-      "bbbs": "4028abcc61277793016127fb771e3c62",
-      "title": "河北省电力条例",
-      "gbrq": "2014-05-30",
-      "sxrq": null,
-      "sxx": 2,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250915T224512+0800",
-      "my_file": "河北省电力条例_20140530.docx"
-    },
-    {
       "bbbs": "4028abcc612777930161280110e24280",
       "title": "河北省终身教育促进条例",
       "gbrq": "2014-05-30",
@@ -15578,6 +15560,24 @@
       "my_status": 200,
       "my_time": "20250915T224512+0800",
       "my_file": "河北省终身教育促进条例_20140530.docx"
+    },
+    {
+      "bbbs": "4028abcc61277793016127fb771e3c62",
+      "title": "河北省电力条例",
+      "gbrq": "2014-05-30",
+      "sxrq": null,
+      "sxx": 2,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T224512+0800",
+      "my_file": "河北省电力条例_20140530.docx"
     },
     {
       "bbbs": "4028abcc6127779301612800640941b5",
@@ -15760,6 +15760,60 @@
       "my_file": "mobile"
     },
     {
+      "bbbs": "4028abcc612777930161285e6fa01da1",
+      "title": "河北省司法鉴定管理条例",
+      "gbrq": "2015-07-24",
+      "sxrq": "2015-07-24",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T224512+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "4028abcc61277793016128055ed846fd",
+      "title": "河北省各级人民代表大会常务委员会规范性文件备案审查条例",
+      "gbrq": "2015-07-24",
+      "sxrq": "2015-10-01",
+      "sxx": 2,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T224512+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "4028abcc6127779301612867f55c26a9",
+      "title": "河北省民办教育条例",
+      "gbrq": "2015-07-24",
+      "sxrq": "2015-07-24",
+      "sxx": 2,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T224512+0800",
+      "my_file": "mobile"
+    },
+    {
       "bbbs": "4028abcc6127779301612869adc82843",
       "title": "河北省计量监督管理条例",
       "gbrq": "2015-07-24",
@@ -15830,60 +15884,6 @@
       "my_status": 200,
       "my_time": "20250915T224512+0800",
       "my_file": "河北省食盐加碘消除碘缺乏危害监督管理条例_20150724.docx"
-    },
-    {
-      "bbbs": "4028abcc612777930161285e6fa01da1",
-      "title": "河北省司法鉴定管理条例",
-      "gbrq": "2015-07-24",
-      "sxrq": "2015-07-24",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250915T224512+0800",
-      "my_file": "mobile"
-    },
-    {
-      "bbbs": "4028abcc61277793016128055ed846fd",
-      "title": "河北省各级人民代表大会常务委员会规范性文件备案审查条例",
-      "gbrq": "2015-07-24",
-      "sxrq": "2015-10-01",
-      "sxx": 2,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250915T224512+0800",
-      "my_file": "mobile"
-    },
-    {
-      "bbbs": "4028abcc6127779301612867f55c26a9",
-      "title": "河北省民办教育条例",
-      "gbrq": "2015-07-24",
-      "sxrq": "2015-07-24",
-      "sxx": 2,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250915T224512+0800",
-      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc6127779301612868df142786",
@@ -16222,7 +16222,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "邯郸市居住证条例_20160930.doc"
     },
     {
       "bbbs": "4028abcc612777930161280578ce471b",
@@ -16237,7 +16240,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省居家养老服务条例_20161202.docx"
     },
     {
       "bbbs": "4028abcc612777930161281bb2db5cdd",
@@ -16252,7 +16258,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省企业集体协商条例_20161202.docx"
     },
     {
       "bbbs": "4028abcc612777930161281b44dc5c62",
@@ -16267,7 +16276,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省志愿服务条例_20161202.docx"
     },
     {
       "bbbs": "4028abcc61277793016127f9066739af",
@@ -16282,7 +16294,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省发展循环经济条例_20161202.docx"
     },
     {
       "bbbs": "ff8081818c24e05b018cd27de9c40fed",
@@ -16297,7 +16312,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "唐山市城市绿化管理条例_20161215.docx"
     },
     {
       "bbbs": "2c90e5bb6200722a0162476b3608349c",
@@ -16312,7 +16330,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "保定市大气污染防治条例_20170105.docx"
     },
     {
       "bbbs": "4028abcc612777930161282d5a0c7098",
@@ -16327,7 +16348,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省安全生产条例_20170112.docx"
     },
     {
       "bbbs": "2c90e5b96214c50101624b7953971e34",
@@ -16342,7 +16366,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "石家庄市轨道交通管理条例_20170330.docx"
     },
     {
       "bbbs": "4028abcc612777930161288df21a444e",
@@ -16357,7 +16384,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省节约能源条例_20170330.docx"
     },
     {
       "bbbs": "2c90e5b96214c50101624b50fee71ddb",
@@ -16372,7 +16402,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "秦皇岛市停车场管理条例_20170330.docx"
     },
     {
       "bbbs": "4028abcc612777930161282b164f6e0d",
@@ -16387,7 +16420,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5bb6200722a01624b54ced934f5",
@@ -16402,7 +16438,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6200715a01625077645e3524",
@@ -16417,7 +16456,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4fe1fb132ea7",
@@ -16432,7 +16474,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161288b88a9422a",
@@ -16447,7 +16492,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016128300b617394",
@@ -16462,7 +16510,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5bb617a3f0f0161db3f4cb30c2e",
@@ -16477,112 +16528,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "2c90e5bb617a3f0f016188127ab3015f",
-      "title": "河北省律师执业保障和规范条例",
-      "gbrq": "2017-09-28",
-      "sxrq": "2017-12-01",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "2c90e5bb6200722a01624b23587634c6",
-      "title": "张家口市禁牧条例",
-      "gbrq": "2017-09-28",
-      "sxrq": "2017-12-01",
-      "sxx": 3,
-      "zdjgName": "张家口市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817f3b9178017f4ecca2232484",
-      "title": "河北省爱国卫生条例",
-      "gbrq": "2017-09-28",
-      "sxrq": "2017-09-28",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081818c24da9e018ca90ab26f0360",
-      "title": "河北省实施《中华人民共和国防洪法》办法",
-      "gbrq": "2017-09-28",
-      "sxrq": "2017-09-28",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817f3b2e8d017f4edd866c5710",
-      "title": "河北省实施《中华人民共和国各级人民代表大会常务委员会监督法》办法",
-      "gbrq": "2017-09-28",
-      "sxrq": "2017-09-28",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "2c90e5bb617a3f0f0161880a243d0145",
-      "title": "河北省社会信用信息条例",
-      "gbrq": "2017-09-28",
-      "sxrq": "2018-01-01",
-      "sxx": 2,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "2c90e5bb617a3f0f016187d162e9010e",
-      "title": "河北省专利条例",
-      "gbrq": "2017-09-28",
-      "sxrq": "2017-11-01",
-      "sxx": 2,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817f420ac8017f4ece97463582",
@@ -16597,7 +16546,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省城市市容和环境卫生条例_20170928.docx"
     },
     {
       "bbbs": "ff8081817f420ac8017f4ed2e1fe386e",
@@ -16612,7 +16564,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省地震安全性评价管理条例_20170928.docx"
     },
     {
       "bbbs": "ff8081818a22132f018a6eb78882286f",
@@ -16627,7 +16582,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省地震安全性评价管理条例_20170928.docx"
     },
     {
       "bbbs": "ff8081817d7e735a017d8ead55042074",
@@ -16642,7 +16600,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省国家建设项目审计条例_20170928.docx"
     },
     {
       "bbbs": "ff8081817f3b9178017f4ed877072d4a",
@@ -16657,7 +16618,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省计量监督管理条例_20170928.docx"
     },
     {
       "bbbs": "ff8081817f3b2e8d017f4ee0be8c5a1a",
@@ -16672,7 +16636,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省食盐加碘消除碘缺乏危害监督管理条例_20170928.docx"
     },
     {
       "bbbs": "ff8081817f420ac8017f4ed17e0e3752",
@@ -16687,7 +16654,136 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省档案工作条例_20170928.docx"
+    },
+    {
+      "bbbs": "2c90e5bb617a3f0f016188127ab3015f",
+      "title": "河北省律师执业保障和规范条例",
+      "gbrq": "2017-09-28",
+      "sxrq": "2017-12-01",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "2c90e5bb6200722a01624b23587634c6",
+      "title": "张家口市禁牧条例",
+      "gbrq": "2017-09-28",
+      "sxrq": "2017-12-01",
+      "sxx": 3,
+      "zdjgName": "张家口市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817f3b9178017f4ecca2232484",
+      "title": "河北省爱国卫生条例",
+      "gbrq": "2017-09-28",
+      "sxrq": "2017-09-28",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817f3b2e8d017f4edd866c5710",
+      "title": "河北省实施《中华人民共和国各级人民代表大会常务委员会监督法》办法",
+      "gbrq": "2017-09-28",
+      "sxrq": "2017-09-28",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "2c90e5bb617a3f0f0161880a243d0145",
+      "title": "河北省社会信用信息条例",
+      "gbrq": "2017-09-28",
+      "sxrq": "2018-01-01",
+      "sxx": 2,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081818c24da9e018ca90ab26f0360",
+      "title": "河北省实施《中华人民共和国防洪法》办法",
+      "gbrq": "2017-09-28",
+      "sxrq": "2017-09-28",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "2c90e5bb617a3f0f016187d162e9010e",
+      "title": "河北省专利条例",
+      "gbrq": "2017-09-28",
+      "sxrq": "2017-11-01",
+      "sxx": 2,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b9617a3e490161881c53770190",
@@ -16702,7 +16798,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省地方金融监督管理条例_20171201.docx"
     },
     {
       "bbbs": "2c90e5ba6200715a0162506553bb3511",
@@ -16717,7 +16816,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "石家庄市城市供水用水管理条例_20171201.docx"
     },
     {
       "bbbs": "2c90e5b96214c501016247ac85821d7f",
@@ -16732,7 +16834,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "邯郸市市政设施条例_20171201.docx"
     },
     {
       "bbbs": "2c90e5ba6200715a0162506c4087351b",
@@ -16747,7 +16852,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "石家庄市各级人民代表大会常务委员会规范性文件备案审查条例_20171201.docx"
     },
     {
       "bbbs": "2c90e5ba617a3f5b016188e5827a02a4",
@@ -16762,7 +16870,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省人民代表大会常务委员会关于提高地方立法质量的若干规定_20171201.docx"
     },
     {
       "bbbs": "2c90e5b9617a3e49016187fc00f60150",
@@ -16777,7 +16888,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省中医药条例_20171201.docx"
     },
     {
       "bbbs": "2c90e5ba6200715a01624b394bd73492",
@@ -16792,7 +16906,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba617a3f5b0161880280ba0161",
@@ -16807,7 +16924,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5bb64fa831301656601c87a06bf",
@@ -16822,7 +16942,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5bb64fa831301657a41f7d90a2c",
@@ -16837,7 +16960,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b964f38f880164f3c2fee20032",
@@ -16852,7 +16978,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5bb64fa831301657a39070b0a00",
@@ -16867,7 +16996,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba64fa820601657a64f9a30aab",
@@ -16882,7 +17014,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba64fa820601657a60ef360a9c",
@@ -16897,7 +17032,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba64fa820601657a862be20b3e",
@@ -16912,7 +17050,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081752b7d430176b7694f9c4739",
@@ -16927,52 +17068,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817f3b2e8d017f4998a07f72c8",
-      "title": "邯郸市城市市容和环境卫生条例",
-      "gbrq": "2018-04-12",
-      "sxrq": "2018-05-01",
-      "sxx": 3,
-      "zdjgName": "邯郸市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817f3b2e8d017f49a0c96274a4",
-      "title": "邯郸市水网建设与保护条例",
-      "gbrq": "2018-04-12",
-      "sxrq": "2018-05-01",
-      "sxx": 3,
-      "zdjgName": "邯郸市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817f3b9178017f499e8dd0009b",
-      "title": "邯郸市居住证条例",
-      "gbrq": "2018-04-12",
-      "sxrq": "2018-05-01",
-      "sxx": 3,
-      "zdjgName": "邯郸市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817f420ac8017f498d56872c86",
@@ -16987,7 +17086,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "邯郸市城市供水用水管理条例_20180412.docx"
     },
     {
       "bbbs": "ff8081817f420ac8017f499360702de3",
@@ -17002,7 +17104,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "邯郸市城市排水与污水处理条例_20180412.doc"
     },
     {
       "bbbs": "ff8081817f420ac8017f4989d1852c2d",
@@ -17017,7 +17122,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "邯郸市城市供热条例_20180412.docx"
     },
     {
       "bbbs": "ff8081817f3b9178017f4990d0837dc4",
@@ -17032,7 +17140,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "邯郸市城市绿化条例_20180412.docx"
     },
     {
       "bbbs": "ff8081817f420ac8017f499ae7672f5a",
@@ -17047,7 +17158,64 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "邯郸市建筑垃圾处置条例_20180412.doc"
+    },
+    {
+      "bbbs": "ff8081817f3b2e8d017f4998a07f72c8",
+      "title": "邯郸市城市市容和环境卫生条例",
+      "gbrq": "2018-04-12",
+      "sxrq": "2018-05-01",
+      "sxx": 3,
+      "zdjgName": "邯郸市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817f3b2e8d017f49a0c96274a4",
+      "title": "邯郸市水网建设与保护条例",
+      "gbrq": "2018-04-12",
+      "sxrq": "2018-05-01",
+      "sxx": 3,
+      "zdjgName": "邯郸市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817f3b9178017f499e8dd0009b",
+      "title": "邯郸市居住证条例",
+      "gbrq": "2018-04-12",
+      "sxrq": "2018-05-01",
+      "sxx": 3,
+      "zdjgName": "邯郸市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6200715a01648c75df4002bd",
@@ -17062,7 +17230,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省水污染防治条例_20180531.docx"
     },
     {
       "bbbs": "2c90e5ba6200715a0164e9b9ee900894",
@@ -17077,7 +17248,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "承德市制定地方性法规条例_20180531.docx"
     },
     {
       "bbbs": "2c90e5ba64f38ff80164f3c5276a0034",
@@ -17092,7 +17266,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "石家庄市公共文明行为条例_20180531.docx"
     },
     {
       "bbbs": "2c90e5bb6200722a0164e9b3f91d099e",
@@ -17107,7 +17284,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省实施宪法宣誓制度办法_20180531.docx"
     },
     {
       "bbbs": "ff808181907351a50190fdca026d5c3d",
@@ -17122,7 +17302,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省计量监督管理条例_20180531.docx"
     },
     {
       "bbbs": "2c90e5ba6200715a0164e9a943ab087a",
@@ -17137,7 +17320,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省人民代表大会常务委员会议事规则_20180531.docx"
     },
     {
       "bbbs": "2c90e5ba6200715a0164e9ad8a120881",
@@ -17152,7 +17338,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省人民代表大会常务委员会组成人员守则_20180531.docx"
     },
     {
       "bbbs": "ff808181907351a50190fdbe6c395c00",
@@ -17167,7 +17356,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省实施《中华人民共和国招标投标法》办法_20180531.docx"
     },
     {
       "bbbs": "2c90e5ba6200715a0164e9bef02c089e",
@@ -17182,7 +17374,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6200715a01648c6892b902b6",
@@ -17197,7 +17392,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081819014ec3f019052b3363c0dd1",
@@ -17212,7 +17410,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24df58018cce2eeade62b2",
@@ -17227,7 +17428,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6200715a0164e9c5603d08a8",
@@ -17242,7 +17446,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba681ce0d401688344f182191d",
@@ -17257,7 +17464,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6888252401689754b7910160",
@@ -17272,7 +17482,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b9681cdbbd01688303f28b1887",
@@ -17287,7 +17500,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba688825240168974709580145",
@@ -17302,7 +17518,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b9681cdbbd0168835f0df719cf",
@@ -17317,67 +17536,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "2c90e5b9688824190168a7177ae60854",
-      "title": "衡水湖水质保护条例",
-      "gbrq": "2018-09-20",
-      "sxrq": "2019-03-01",
-      "sxx": 3,
-      "zdjgName": "衡水市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "2c90e5b9688824190168a730225108a6",
-      "title": "廊坊市市容和环境卫生条例",
-      "gbrq": "2018-09-20",
-      "sxrq": "2018-12-01",
-      "sxx": 3,
-      "zdjgName": "廊坊市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "2c90e5b9688824190168a71f06060860",
-      "title": "河北省老年人权益保障条例",
-      "gbrq": "2018-09-20",
-      "sxrq": "2018-12-01",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "2c90e5bb688822730168a71023330861",
-      "title": "河北省地下水管理条例",
-      "gbrq": "2018-09-20",
-      "sxrq": "2018-11-01",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b9688824190168a73d542b08bb",
@@ -17392,7 +17554,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "石家庄市人才发展促进条例_20180920.docx"
     },
     {
       "bbbs": "2c90e5b9688824190168a72b41ac0889",
@@ -17407,7 +17572,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省人民代表大会常务委员会关于加强人民法院执行工作的决议_20180920.docx"
     },
     {
       "bbbs": "2c90e5ba688825240168a7448033086f",
@@ -17422,7 +17590,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "唐山市房地产交易管理条例_20180920.docx"
     },
     {
       "bbbs": "2c90e5b9688824190168a738e2a008b2",
@@ -17437,7 +17608,82 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "石家庄市国家建设项目审计条例_20180920.docx"
+    },
+    {
+      "bbbs": "2c90e5b9688824190168a7177ae60854",
+      "title": "衡水湖水质保护条例",
+      "gbrq": "2018-09-20",
+      "sxrq": "2019-03-01",
+      "sxx": 3,
+      "zdjgName": "衡水市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "2c90e5b9688824190168a730225108a6",
+      "title": "廊坊市市容和环境卫生条例",
+      "gbrq": "2018-09-20",
+      "sxrq": "2018-12-01",
+      "sxx": 3,
+      "zdjgName": "廊坊市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "2c90e5bb688822730168a71023330861",
+      "title": "河北省地下水管理条例",
+      "gbrq": "2018-09-20",
+      "sxrq": "2018-11-01",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "2c90e5b9688824190168a71f06060860",
+      "title": "河北省老年人权益保障条例",
+      "gbrq": "2018-09-20",
+      "sxrq": "2018-12-01",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba688825240168a750f468087f",
@@ -17452,7 +17698,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省人民代表大会常务委员会关于进一步提升行政审批效能的决定_20181019.docx"
     },
     {
       "bbbs": "2c90e5b9688824190168a754f2ad08de",
@@ -17467,7 +17716,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省人民代表大会常务委员会关于加强扬尘污染防治的决定_20181019.docx"
     },
     {
       "bbbs": "2c90e5b9688824190168974d6f8b013e",
@@ -17482,7 +17734,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "张家口市城市绿化条例_20181123.docx"
     },
     {
       "bbbs": "2c90e5b9681cdbbd0168834ed0b1197d",
@@ -17497,7 +17752,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省人民代表大会常务委员会关于河北雄安新区中级人民法院和河北省人民检察院雄安新区分院人事任免暂行办法_20181123.docx"
     },
     {
       "bbbs": "2c90e5bb681ce128016882f1569a18a4",
@@ -17512,7 +17770,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "河北省促进绿色建筑发展条例_20181123.docx"
     },
     {
       "bbbs": "ff80808172b5f24f01732bff77743709",
@@ -17527,7 +17788,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "石家庄市河道管理条例_20181127.doc"
     },
     {
       "bbbs": "ff80808172b5fee80172caaf16740a48",
@@ -17542,7 +17806,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "石家庄市水土保持条例_20181127.docx"
     },
     {
       "bbbs": "ff8081818d170a71018d34336cab6968",
@@ -17557,7 +17824,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "邯郸市城市绿化条例_20181217.docx"
     },
     {
       "bbbs": "ff80808172b5fee80172c65a1d04085a",
@@ -17572,7 +17842,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b9681cdbbd01688352e3d11988",
@@ -17587,7 +17860,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6a291d8f016cd0e5f5534797",
@@ -17602,7 +17878,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6a291d8f016cd24b96924a2b",
@@ -17617,7 +17896,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b96c128b4c016cd0f6e78013fb",
@@ -17632,7 +17914,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b96c128b4c016cd26152fa16f8",
@@ -17647,7 +17932,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6a291d8f016cd244c7cb4a1b",
@@ -17662,7 +17950,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817b149d62017b2f3b7ef83472",
@@ -17677,7 +17968,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b96c128b4c016cd25e47c516ed",
@@ -17692,22 +17986,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "2c90e5b96a292396016bc0f3c8ae2d54",
-      "title": "河北省文明行为促进条例",
-      "gbrq": "2019-05-30",
-      "sxrq": "2019-09-01",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b96a292396016bc106f8142d74",
@@ -17828,6 +18110,24 @@
       "score": 0.0,
       "my_dir": "地方法规/河北",
       "my_cate": 12
+    },
+    {
+      "bbbs": "2c90e5b96a292396016bc0f3c8ae2d54",
+      "title": "河北省文明行为促进条例",
+      "gbrq": "2019-05-30",
+      "sxrq": "2019-09-01",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T231045+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b96c128b4c016daa8b993530e7",
