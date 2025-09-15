@@ -1,9 +1,9 @@
 {
-  "update": "20250916T032725+0800",
+  "update": "20250916T034340+0800",
   "duplicate": {},
   "stats": {
     "total": 6401,
-    "download": 2200,
+    "download": 2300,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -38242,24 +38242,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff8081817c636282017c73b9961c7bc9",
-      "title": "忻州市乡村人居环境治理促进条例",
-      "gbrq": "2021-08-09",
-      "sxrq": "2021-10-01",
-      "sxx": 3,
-      "zdjgName": "忻州市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T032459+0800",
-      "my_file": "忻州市乡村人居环境治理促进条例_20210809.doc"
-    },
-    {
       "bbbs": "ff8081817c63656c017c772e984e3f9d",
       "title": "忻州市静乐汾河川国家湿地公园保护条例",
       "gbrq": "2021-08-09",
@@ -38276,6 +38258,24 @@
       "my_status": 200,
       "my_time": "20250916T032459+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817c636282017c73b9961c7bc9",
+      "title": "忻州市乡村人居环境治理促进条例",
+      "gbrq": "2021-08-09",
+      "sxrq": "2021-10-01",
+      "sxx": 3,
+      "zdjgName": "忻州市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "忻州市乡村人居环境治理促进条例_20210809.doc"
     },
     {
       "bbbs": "ff8081817dc68c03017dc7675f5b04ab",
@@ -38710,6 +38710,24 @@
       "my_file": "mobile"
     },
     {
+      "bbbs": "ff8081817f3b2e8d017f6744fcb73e88",
+      "title": "大同市泉域水资源保护条例",
+      "gbrq": "2022-01-17",
+      "sxrq": "2022-05-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
+    },
+    {
       "bbbs": "ff8081817f3b2e8d017f673831313778",
       "title": "大同市城市绿化条例",
       "gbrq": "2022-01-17",
@@ -38780,24 +38798,6 @@
       "my_status": 200,
       "my_time": "20250916T032459+0800",
       "my_file": "晋城市农村自建房管理条例_20220117.docx"
-    },
-    {
-      "bbbs": "ff8081817f3b2e8d017f6744fcb73e88",
-      "title": "大同市泉域水资源保护条例",
-      "gbrq": "2022-01-17",
-      "sxrq": "2022-05-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T032459+0800",
-      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817fbb5c82017fd8c8e6b7580e",
@@ -39178,42 +39178,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff80818185e7f9390185f63cbc5f4e82",
-      "title": "山西省反不正当竞争条例 ",
-      "gbrq": "2022-09-28",
-      "sxrq": "2022-12-01",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T032459+0800",
-      "my_file": "山西省反不正当竞争条例+_20220928.docx"
-    },
-    {
-      "bbbs": "ff80818185e7f9390185f64656b14fb4",
-      "title": "山西省绿色建筑发展条例",
-      "gbrq": "2022-09-28",
-      "sxrq": "2022-12-01",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T032459+0800",
-      "my_file": "山西省绿色建筑发展条例_20220928.doc"
-    },
-    {
       "bbbs": "ff80818185e7f9390185f6553ae750e1",
       "title": "山西省社区居家养老服务条例",
       "gbrq": "2022-09-28",
@@ -39248,6 +39212,42 @@
       "my_status": 200,
       "my_time": "20250916T032459+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff80818185e7f9390185f63cbc5f4e82",
+      "title": "山西省反不正当竞争条例 ",
+      "gbrq": "2022-09-28",
+      "sxrq": "2022-12-01",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省反不正当竞争条例+_20220928.docx"
+    },
+    {
+      "bbbs": "ff80818185e7f9390185f64656b14fb4",
+      "title": "山西省绿色建筑发展条例",
+      "gbrq": "2022-09-28",
+      "sxrq": "2022-12-01",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省绿色建筑发展条例_20220928.doc"
     },
     {
       "bbbs": "ff808181842c261c01852d4c84b63061",
@@ -39622,7 +39622,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "大同市桑干河流域生态修复与保护条例_20230404.docx"
     },
     {
       "bbbs": "ff80818188d322d5018963242aa841c1",
@@ -39637,7 +39640,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "大同市大清河流域生态修复与保护条例_20230404.docx"
     },
     {
       "bbbs": "ff80818187c29b50018828a6286e1f59",
@@ -39652,7 +39658,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "大同市电动车管理条例_20230404.docx"
     },
     {
       "bbbs": "ff80818187c29b14018831bfe2125016",
@@ -39667,7 +39676,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "长治市漳泽湖生态保护与修复条例_20230405.docx"
     },
     {
       "bbbs": "ff80818187c29b5001882ce922143eb5",
@@ -39682,7 +39694,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "吕梁市控制和查处违法建设条例_20230405.docx"
     },
     {
       "bbbs": "ff80818187c2962001882caea9ef0dd1",
@@ -39697,7 +39712,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "晋中市电动自行车管理条例_20230406.doc"
     },
     {
       "bbbs": "ff80818187c2962001882cee6d6c1011",
@@ -39712,7 +39730,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "忻州市地热水资源保护条例_20230406.docx"
     },
     {
       "bbbs": "ff80818187c29b5001882dc43495484f",
@@ -39727,7 +39748,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "忻州市有机旱作农业发展促进条例_20230406.docx"
     },
     {
       "bbbs": "ff80818187c29620018831b96aa22434",
@@ -39742,7 +39766,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818187c29b5001882cf0ef2d3f20",
@@ -39757,7 +39784,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818187c29b5001882ca856da3bc5",
@@ -39772,7 +39802,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181883217dd01888964f60f7dd4",
@@ -39787,7 +39820,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818187c29620018804e1f1834749",
@@ -39802,7 +39838,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818187c29b1401882e179dca451e",
@@ -39817,7 +39856,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818187c29b14018831b48c454f75",
@@ -39832,7 +39874,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818189611b8101898c0d2c7813c4",
@@ -39847,7 +39892,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818189611b810189967719ac6396",
@@ -39862,7 +39910,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818996d8fa01899a6fb59717d9",
@@ -39877,7 +39928,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818996dd3d01899be846d35afa",
@@ -39892,7 +39946,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818996dd3d01899bdb04785a6d",
@@ -39907,7 +39964,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818a1cb709018a630a77e4529e",
@@ -39922,7 +39982,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818a1cb709018a62d13a8d4ff8",
@@ -39937,7 +40000,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818a22132f018a62da219f4b0c",
@@ -39952,7 +40018,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818a1cb546018a5f776d331b28",
@@ -39967,7 +40036,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818a22132f018a83910f6671aa",
@@ -39982,7 +40054,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818a1cb546018a839716b12783",
@@ -39997,7 +40072,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "忻州市户外广告设施和招牌设置管理条例_20230802.docx"
     },
     {
       "bbbs": "ff8081818a22132f018a83aae2d3724f",
@@ -40012,7 +40090,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "长治市地方立法条例_20230803.docx"
     },
     {
       "bbbs": "ff8081818a22132f018a83ba682172a1",
@@ -40027,7 +40108,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "运城市国家湿地公园保护条例_20230804.docx"
     },
     {
       "bbbs": "ff8081818a1cb709018a4057d72d3137",
@@ -40042,7 +40126,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "太原市体育发展条例_20230808.docx"
     },
     {
       "bbbs": "ff8081818a1cb709018a839d226f7a7a",
@@ -40057,7 +40144,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "平遥推光漆器髹饰技艺保护条例_20230809.docx"
     },
     {
       "bbbs": "ff8081818a1cb546018a83a2e46d27b7",
@@ -40072,7 +40162,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "晋中市国家湿地公园保护条例_20230809.docx"
     },
     {
       "bbbs": "ff8081818a22132f018a83b1a6917275",
@@ -40087,7 +40180,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "晋城市湿地公园保护条例_20230811.docx"
     },
     {
       "bbbs": "ff8081818bd266a3018bdca351ab4430",
@@ -40102,7 +40198,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "山西省农产品质量安全条例_20230922.docx"
     },
     {
       "bbbs": "ff808181907351a50191018b21cf6352",
@@ -40117,7 +40216,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "山西省节约能源条例_20230922.docx"
     },
     {
       "bbbs": "ff8081819014ec3f0190391b03a52919",
@@ -40132,7 +40234,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "山西省未成年人保护条例_20230922.docx"
     },
     {
       "bbbs": "ff8081818bd27b26018bdcaf685840ff",
@@ -40147,7 +40252,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818bd2739d018bdc99d9e3396d",
@@ -40162,7 +40270,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818bd27b26018bea74b0df5dbb",
@@ -40177,7 +40288,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818bd27b26018bea6a615f5d0c",
@@ -40192,7 +40306,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818beaa195018beac93682017e",
@@ -40207,7 +40324,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818beaa195018bec2b37490b8f",
@@ -40222,7 +40342,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818bd2739d018bec30beed6404",
@@ -40237,7 +40360,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818bd2739d018beabd6e70597a",
@@ -40252,7 +40378,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24df58018ccd5c92b15b57",
@@ -40267,7 +40396,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24da9e018ccd3be6fc056b",
@@ -40282,7 +40414,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24da9e018ccd42158b0587",
@@ -40297,7 +40432,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24da9e018cce699732132a",
@@ -40312,7 +40450,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24df58018cce56e75f646c",
@@ -40327,7 +40468,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24df58018cce5eeee864d2",
@@ -40342,7 +40486,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24df58018cce861293670a",
@@ -40357,7 +40504,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24df58018cf2c2868611c1",
@@ -40372,7 +40522,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24da9e018ccd620e6d07b8",
@@ -40387,7 +40540,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "太原市大数据发展促进条例_20231208.docx"
     },
     {
       "bbbs": "ff8081818c24df58018cce7f027466b2",
@@ -40402,7 +40558,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "阳泉市智能网联汽车管理办法_20231208.docx"
     },
     {
       "bbbs": "ff8081818d736ac1018dd407ecac5e15",
@@ -40417,7 +40576,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "临汾市晋西太德塬生态保护条例_20240127.docx"
     },
     {
       "bbbs": "ff8081818def527b018e2c7b60683e6b",
@@ -40432,7 +40594,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "山西省人民代表大会议事规则_20240127.docx"
     },
     {
       "bbbs": "ff8081818d736e08018dc5bc40c90dc4",
@@ -40447,7 +40612,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "忻州市亚高山草甸保护条例_20240129.docx"
     },
     {
       "bbbs": "ff8081818d736ac1018dc5b7500d62c8",
@@ -40462,7 +40630,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "忻州市人民代表大会常务委员会议事规则_20240129.docx"
     },
     {
       "bbbs": "ff8081818d736ac1018dd3fe11fc5d47",
@@ -40477,7 +40648,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "晋城市城市供水管理条例_20240130.docx"
     },
     {
       "bbbs": "ff8081818d736dae018dd4eb066547d9",
@@ -40492,7 +40666,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "长治市见义勇为人员奖励和保障条例_20240201.docx"
     },
     {
       "bbbs": "ff8081818d736ac1018dd4f4e00a1541",
@@ -40507,7 +40684,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "长治市中小学校幼儿园规划建设条例_20240201.docx"
     },
     {
       "bbbs": "ff8081818f19d70e018f848fd6e02686",
@@ -40522,7 +40702,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "山西省制造业高质量发展促进条例_20240328.docx"
     },
     {
       "bbbs": "ff8081818f19d70e018f847252957562",
@@ -40537,7 +40720,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818faab35d018fc1fbc1c455f0",
@@ -40552,7 +40738,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818f19d70e018f5b563d63379e",
@@ -40567,7 +40756,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818f19d70e018f5c62e7313e93",
@@ -40582,7 +40774,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818f19d70e018f93c6b9480c55",
@@ -40597,7 +40792,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818f19d3bc018f93adeb636d5e",
@@ -40612,7 +40810,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818f19d70e018f7b573c0f73eb",
@@ -40627,7 +40828,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818f19d3bc018f93ed62a77176",
@@ -40642,7 +40846,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818f19d70e018f93e3aaa10e9e",
@@ -40657,7 +40864,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818190734f1d0191360341b52dd6",
@@ -40672,7 +40882,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818fc8e30c018fe15b95685328",
@@ -40687,7 +40900,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818f19d612018f61b95cd82c8b",
@@ -40702,7 +40918,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818f19d70e018f6030b7dd4ae0",
@@ -40717,7 +40936,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181907350630190954359de042f",
@@ -40732,7 +40954,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181907350630190a64c1a3556b3",
@@ -40747,7 +40972,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181907351a501909f6e8f733d2e",
@@ -40762,7 +40990,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818190735063019095348f3e0292",
@@ -40777,7 +41008,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181907350630190a667d4dd58a3",
@@ -40792,7 +41026,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "阳泉市地方立法条例_20240611.docx"
     },
     {
       "bbbs": "ff80818191d62db00192042cf66408bc",
@@ -40807,7 +41044,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "山西省旅游发展促进条例_20240726.docx"
     },
     {
       "bbbs": "ff80818191d62db001920413fa5007d9",
@@ -40822,7 +41062,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "山西省建筑市场管理条例_20240726.docx"
     },
     {
       "bbbs": "ff808181927f1276019305e712a8589b",
@@ -40837,7 +41080,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "山西省黄河流域生态保护和高质量发展条例_20240726.docx"
     },
     {
       "bbbs": "ff808181927f0e7b0193662a60bd180d",
@@ -40852,7 +41098,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "山西省各级人民代表大会常务委员会规范性文件备案审查条例_20240726.docx"
     },
     {
       "bbbs": "ff808181923a4d0c01927552761f4504",
@@ -40867,7 +41116,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "山西省实施《中华人民共和国渔业法》办法_20240726.docx"
     },
     {
       "bbbs": "ff80818191d60d4101920454bec423c9",
@@ -40882,7 +41134,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "忻州市地方立法条例_20240806.docx"
     },
     {
       "bbbs": "ff8081819150415e0191a24e619107c6",
@@ -40897,7 +41152,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "晋城市地方立法条例_20240808.docx"
     },
     {
       "bbbs": "ff8081819223a8170192273de04209ef",
@@ -40912,7 +41170,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "太原市雷电灾害防御条例_20240809.docx"
     },
     {
       "bbbs": "ff8081819223a8f50192274039730f01",
@@ -40927,7 +41188,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081819223a4100192273f3b810b01",
@@ -40942,7 +41206,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081819223a41001922740f2ed0b04",
@@ -40957,7 +41224,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818191d6169401920478434777f9",
@@ -40972,7 +41242,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f0e7b0192e1c5839b0bbf",
@@ -40987,7 +41260,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f12760192f4db2a3677ee",
@@ -41002,7 +41278,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f09310192f4e1878515bc",
@@ -41017,7 +41296,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f127601941be2b2ec7f1f",
@@ -41032,7 +41314,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f0e7b0192f4f98b3b38e7",
@@ -41047,7 +41332,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f0e7b0192f4f91f2e38de",
@@ -41062,7 +41350,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f0931019305a9cde97860",
@@ -41077,7 +41368,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f0931019305a3e2707810",
@@ -41092,7 +41386,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f0e7b019305b2a8ac1604",
@@ -41107,7 +41404,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T034124+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f09310193059e4bd477d6",
