@@ -1,9 +1,9 @@
 {
-  "update": "20250916T031015+0800",
+  "update": "20250916T032725+0800",
   "duplicate": {},
   "stats": {
     "total": 6401,
-    "download": 2100,
+    "download": 2200,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -37144,24 +37144,6 @@
       "my_file": "山西省各级人民代表大会选举实施细则_20201127.docx"
     },
     {
-      "bbbs": "ff8081818fc8e30c018fdc30724d2dc1",
-      "title": "山西省实施《中华人民共和国土地管理法》办法",
-      "gbrq": "2020-11-27",
-      "sxrq": "2020-11-27",
-      "sxx": 2,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T030749+0800",
-      "my_file": "山西省实施《中华人民共和国土地管理法》办法_20201127.docx"
-    },
-    {
       "bbbs": "ff80808177e75f880177f6f1f6b30e17",
       "title": "山西省机关运行保障条例",
       "gbrq": "2020-11-27",
@@ -37178,6 +37160,24 @@
       "my_status": 200,
       "my_time": "20250916T030749+0800",
       "my_file": "山西省机关运行保障条例_20201127.docx"
+    },
+    {
+      "bbbs": "ff8081818fc8e30c018fdc30724d2dc1",
+      "title": "山西省实施《中华人民共和国土地管理法》办法",
+      "gbrq": "2020-11-27",
+      "sxrq": "2020-11-27",
+      "sxx": 2,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T030749+0800",
+      "my_file": "山西省实施《中华人民共和国土地管理法》办法_20201127.docx"
     },
     {
       "bbbs": "ff80808177e757ac0177fb44c75012c0",
@@ -37396,24 +37396,6 @@
       "my_file": "晋中市太谷传统医药国家级非物质文化遗产保护条例_20201207.docx"
     },
     {
-      "bbbs": "ff80808177e757ac0178018ca9271e31",
-      "title": "运城市文明行为促进条例",
-      "gbrq": "2020-12-10",
-      "sxrq": "2021-01-01",
-      "sxx": 3,
-      "zdjgName": "运城市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T030749+0800",
-      "my_file": "运城市文明行为促进条例_20201210.docx"
-    },
-    {
       "bbbs": "ff80808177e75f8801780182dce11e26",
       "title": "运城市盐湖保护条例",
       "gbrq": "2020-12-10",
@@ -37430,6 +37412,24 @@
       "my_status": 200,
       "my_time": "20250916T030749+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff80808177e757ac0178018ca9271e31",
+      "title": "运城市文明行为促进条例",
+      "gbrq": "2020-12-10",
+      "sxrq": "2021-01-01",
+      "sxx": 3,
+      "zdjgName": "运城市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T030749+0800",
+      "my_file": "运城市文明行为促进条例_20201210.docx"
     },
     {
       "bbbs": "ff80808177e757ac0178003a3f651a6b",
@@ -37792,51 +37792,6 @@
       "my_file": "忻州市代县历史文化名城保护条例_20210125.doc"
     },
     {
-      "bbbs": "ff808181799df6140179b1ebdd9e328d",
-      "title": "山西省统计条例",
-      "gbrq": "2021-03-31",
-      "sxrq": "2021-06-01",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808181799def980179ad29b81c14b5",
-      "title": "山西省一枚印章管审批条例",
-      "gbrq": "2021-03-31",
-      "sxrq": "2021-05-01",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808181799def980179ad26f28814aa",
-      "title": "山西省固体废物污染环境防治条例",
-      "gbrq": "2021-03-31",
-      "sxrq": "2021-05-01",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
       "bbbs": "ff808181791bc99d017988fb526a6761",
       "title": "山西省慈善事业促进条例",
       "gbrq": "2021-03-31",
@@ -37855,6 +37810,60 @@
       "my_file": "山西省慈善事业促进条例_20210331.docx"
     },
     {
+      "bbbs": "ff808181799df6140179b1ebdd9e328d",
+      "title": "山西省统计条例",
+      "gbrq": "2021-03-31",
+      "sxrq": "2021-06-01",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省统计条例_20210331.docx"
+    },
+    {
+      "bbbs": "ff808181799def980179ad29b81c14b5",
+      "title": "山西省一枚印章管审批条例",
+      "gbrq": "2021-03-31",
+      "sxrq": "2021-05-01",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省一枚印章管审批条例_20210331.docx"
+    },
+    {
+      "bbbs": "ff808181799def980179ad26f28814aa",
+      "title": "山西省固体废物污染环境防治条例",
+      "gbrq": "2021-03-31",
+      "sxrq": "2021-05-01",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省固体废物污染环境防治条例_20210331.docx"
+    },
+    {
       "bbbs": "ff808181791b839c017968b38732595c",
       "title": "大同火山群保护条例",
       "gbrq": "2021-04-02",
@@ -37867,7 +37876,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "大同火山群保护条例_20210402.doc"
     },
     {
       "bbbs": "ff80818179b2b3250179caa8e71210b0",
@@ -37882,7 +37894,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "忻州市杂粮产业发展促进条例_20210409.doc"
     },
     {
       "bbbs": "ff808181799df6140179acff5c182001",
@@ -37897,7 +37912,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "朔州市养犬管理条例_20210409.doc"
     },
     {
       "bbbs": "ff80818179b2b3250179cab6252510f5",
@@ -37912,7 +37930,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "阳泉市文明行为促进条例_20210412.docx"
     },
     {
       "bbbs": "ff80818179b2b3250179cab7c2dd1101",
@@ -37927,7 +37948,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "长治市城市照明管理条例_20210413.docx"
     },
     {
       "bbbs": "ff808181799df6140179b22f45623856",
@@ -37942,7 +37966,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "太原市城乡社区治理促进条例_20210413.docx"
     },
     {
       "bbbs": "ff80818179b2b3250179e95c1a506183",
@@ -37957,7 +37984,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "长治市文明行为促进条例_20210420.docx"
     },
     {
       "bbbs": "ff8081817a9a330e017aa3fcc9f7339e",
@@ -37972,7 +38002,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "长治市文明行为促进条例_20210420.docx"
     },
     {
       "bbbs": "ff8081817b338069017b37d26446067b",
@@ -37987,7 +38020,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省不设区的市和市辖区人民代表大会常务委员会街道工作委员会工作条例_20210528.docx"
     },
     {
       "bbbs": "ff8081817b338069017b37d4d517067d",
@@ -38002,7 +38038,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省全民阅读促进条例_20210528.docx"
     },
     {
       "bbbs": "ff8081817b338e72017b37d6a1290827",
@@ -38017,7 +38056,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省知识产权保护工作条例_20210528.docx"
     },
     {
       "bbbs": "ff8081817a9a330e017a9eda8c101a55",
@@ -38032,7 +38074,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "长治市沁河流域生态修复与保护条例_20210609.doc"
     },
     {
       "bbbs": "ff8081817cdb0404017cde6dd9fb1321",
@@ -38047,7 +38092,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省动物防疫条例_20210729.docx"
     },
     {
       "bbbs": "ff8081817cea66e8017d029181675468",
@@ -38062,7 +38110,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省食品小作坊小经营店小摊点管理条例_20210729.docx"
     },
     {
       "bbbs": "ff8081817cea682c017cfe9e4b97431f",
@@ -38077,7 +38128,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省规章设定罚款限额规定_20210729.doc"
     },
     {
       "bbbs": "ff8081817cea66e8017d028bc8a45407",
@@ -38092,7 +38146,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省实施《中华人民共和国国家通用语言文字法》办法_20210729.doc"
     },
     {
       "bbbs": "ff8081817cea645d017d0295123957e9",
@@ -38107,7 +38164,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省永久性生态公益林保护条例_20210729.docx"
     },
     {
       "bbbs": "ff8081817cea66e8017d028f97d7543d",
@@ -38122,7 +38182,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cdb0404017cde73212b1389",
@@ -38137,7 +38200,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817c636282017c7752d71143ab",
@@ -38152,7 +38218,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817c636282017c73a7a25a70ce",
@@ -38167,22 +38236,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff8081817c63656c017c772e984e3f9d",
-      "title": "忻州市静乐汾河川国家湿地公园保护条例",
-      "gbrq": "2021-08-09",
-      "sxrq": "2021-10-01",
-      "sxx": 3,
-      "zdjgName": "忻州市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817c636282017c73b9961c7bc9",
@@ -38197,7 +38254,28 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "忻州市乡村人居环境治理促进条例_20210809.doc"
+    },
+    {
+      "bbbs": "ff8081817c63656c017c772e984e3f9d",
+      "title": "忻州市静乐汾河川国家湿地公园保护条例",
+      "gbrq": "2021-08-09",
+      "sxrq": "2021-10-01",
+      "sxx": 3,
+      "zdjgName": "忻州市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817dc68c03017dc7675f5b04ab",
@@ -38212,7 +38290,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省预算审查监督条例_20210929.docx"
     },
     {
       "bbbs": "ff8081817d7e729d017d8dc2dc41174d",
@@ -38227,7 +38308,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西老陈醋保护条例_20210929.doc"
     },
     {
       "bbbs": "ff8081817d7deab1017d7e3a05ae02ce",
@@ -38242,7 +38326,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省康养产业促进条例_20210929.doc"
     },
     {
       "bbbs": "ff8081817d7e729d017d8dc65a1a1791",
@@ -38257,7 +38344,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省农业生产托管服务条例_20210929.docx"
     },
     {
       "bbbs": "ff80818188d322d5018928fb4cb151b3",
@@ -38272,7 +38362,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省警务辅助人员条例_20210929.docx"
     },
     {
       "bbbs": "ff8081817d55643e017d7a30269a271e",
@@ -38287,7 +38380,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "吕梁市文明行为促进条例_20210930.doc"
     },
     {
       "bbbs": "ff8081817d55643e017d7559209217a0",
@@ -38302,7 +38398,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "吕梁市大气污染防治条例_20210930.docx"
     },
     {
       "bbbs": "ff8081817dc68c03017dc758b63f0405",
@@ -38317,7 +38416,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "太原市晋阳湖生态保护与修复条例_20211008.docx"
     },
     {
       "bbbs": "ff8081817d99878a017dc14d0f266643",
@@ -38332,7 +38434,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "太原市旅游条例_20211008.docx"
     },
     {
       "bbbs": "ff8081817dc68a44017dc74e2ed80530",
@@ -38347,7 +38452,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "太原市客运出租汽车服务管理条例_20211008.docx"
     },
     {
       "bbbs": "ff8081817dc68a44017dc770cb650751",
@@ -38362,7 +38470,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "长治市农村自建房管理条例_20211009.doc"
     },
     {
       "bbbs": "ff8081817fd98625018046207c743594",
@@ -38377,7 +38488,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "朔州市固体废物污染环境防治条例_20211011.doc"
     },
     {
       "bbbs": "ff8081817cea645d017d075bf1687808",
@@ -38392,7 +38506,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "晋中市城市居民二次供水管理条例_20211013.docx"
     },
     {
       "bbbs": "ff8081817d0ea263017d12223054077f",
@@ -38407,7 +38524,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "临汾市电动自行车管理条例_20211013.docx"
     },
     {
       "bbbs": "ff8081817f3b2e8d017f4d978cad2f0f",
@@ -38422,7 +38542,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省传统村落保护条例_20211125.docx"
     },
     {
       "bbbs": "ff8081817f3b2e8d017f4da6fdb73659",
@@ -38437,7 +38560,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省外来投资促进条例_20211125.doc"
     },
     {
       "bbbs": "ff8081817f3b9178017f53bd85a84fef",
@@ -38452,7 +38578,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "运城市伍姓湖保护条例_20211129.docx"
     },
     {
       "bbbs": "ff8081817f420ac8017f62138141099e",
@@ -38467,7 +38596,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "运城市城市建筑垃圾管理条例_20211129.docx"
     },
     {
       "bbbs": "ff8081817f3b9178017f621893413e22",
@@ -38482,7 +38614,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "运城市机动车停车场管理条例_20211129.docx"
     },
     {
       "bbbs": "ff8081817fd98341018046144e4b267f",
@@ -38497,7 +38632,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "晋中市城市建筑垃圾管理条例_20211202.docx"
     },
     {
       "bbbs": "ff8081817f3b2e8d017f4db278553d5f",
@@ -38512,7 +38650,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "晋中市城市建筑垃圾管理条例_20211202.docx"
     },
     {
       "bbbs": "ff8081817f420ac8017f53b930c21dce",
@@ -38527,7 +38668,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817f3b2e8d017f53c40e846f02",
@@ -38542,7 +38686,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817f420ac8017f4e7cd79d6b46",
@@ -38557,22 +38704,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff8081817f3b2e8d017f6744fcb73e88",
-      "title": "大同市泉域水资源保护条例",
-      "gbrq": "2022-01-17",
-      "sxrq": "2022-05-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817f3b2e8d017f673831313778",
@@ -38587,7 +38722,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "大同市城市绿化条例_20220117.doc"
     },
     {
       "bbbs": "ff8081817f3b9178017f6239f5885e61",
@@ -38602,7 +38740,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "太原市农村自建房管理服务条例_20220117.docx"
     },
     {
       "bbbs": "ff8081817f420ac8017f673fc4761b25",
@@ -38617,7 +38758,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "大同市农村自建房屋质量管理条例_20220117.doc"
     },
     {
       "bbbs": "ff8081817fc0f0f0017fd39125e55385",
@@ -38632,7 +38776,28 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "晋城市农村自建房管理条例_20220117.docx"
+    },
+    {
+      "bbbs": "ff8081817f3b2e8d017f6744fcb73e88",
+      "title": "大同市泉域水资源保护条例",
+      "gbrq": "2022-01-17",
+      "sxrq": "2022-05-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817fbb5c82017fd8c8e6b7580e",
@@ -38647,7 +38812,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "忻州市机动车停车管理条例_20220118.docx"
     },
     {
       "bbbs": "ff8081817fc0f3b7017fd3a4833559ad",
@@ -38662,7 +38830,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "吕梁市禁牧休牧条例_20220120.doc"
     },
     {
       "bbbs": "ff8081817fc0f3b7017fd39cf3f35870",
@@ -38677,7 +38848,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "吕梁市村民自建房用作经营场所质量安全管理条例_20220120.doc"
     },
     {
       "bbbs": "ff8081817fc0f3b7017fd394d8ff575e",
@@ -38692,7 +38866,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "晋中市农村自建房屋质量管理条例_20220123.doc"
     },
     {
       "bbbs": "ff8081817fc0f3b7017fd8d053a81d43",
@@ -38707,7 +38884,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "阳泉市农村自建房屋质量管理办法_20220125.docx"
     },
     {
       "bbbs": "ff8081817fd9862501804607417534bf",
@@ -38722,7 +38902,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "阳泉市城市绿化条例_20220125.docx"
     },
     {
       "bbbs": "ff8081817fbb5c82017fd8c3049a57b4",
@@ -38737,7 +38920,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "朔州市湿地公园保护条例_20220208.doc"
     },
     {
       "bbbs": "ff8081817fc0f0f0017fd3a95366584d",
@@ -38752,7 +38938,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "朔州市神头泉域水资源保护条例_20220208.doc"
     },
     {
       "bbbs": "ff8081817fc0f3b7017fd8b6e2971b3e",
@@ -38767,7 +38956,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "朔州市农村自建房管理条例_20220208.doc"
     },
     {
       "bbbs": "ff80818180adcc8a0180df819f3770d0",
@@ -38782,7 +38974,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省燃气管理条例_20220330.doc"
     },
     {
       "bbbs": "ff808181813cacea01814765c09d2a34",
@@ -38797,7 +38992,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "忻州市农村自建房屋管理条例_20220406.doc"
     },
     {
       "bbbs": "ff808181813cacea018147a21f142c5f",
@@ -38812,7 +39010,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "长治市国家湿地公园保护条例_20220411.docx"
     },
     {
       "bbbs": "ff80818182fdda2a01830ccb777f13ff",
@@ -38827,7 +39028,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省社会信用条例_20220527.docx"
     },
     {
       "bbbs": "ff80818182fddda501830d19fd831732",
@@ -38842,7 +39046,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省中医药条例_20220527.doc"
     },
     {
       "bbbs": "ff80818189b5c3300189d350909a4a16",
@@ -38857,7 +39064,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省实施《中华人民共和国工会法》办法_20220527.docx"
     },
     {
       "bbbs": "ff8081818364d9030183820816f44f33",
@@ -38872,7 +39082,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省水资源管理条例_20220527.docx"
     },
     {
       "bbbs": "ff80818185c0c24e0185c417cd591ba3",
@@ -38887,7 +39100,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省教育督导条例_20220722.docx"
     },
     {
       "bbbs": "ff808181844232f7018518dffcb355c4",
@@ -38902,7 +39118,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "晋城市机动车停车条例_20220725.doc"
     },
     {
       "bbbs": "ff808181844230ec0185295316b67e79",
@@ -38917,7 +39136,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181844232f701852d3aea997199",
@@ -38932,7 +39154,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181842c261c0185295e263b2962",
@@ -38947,37 +39172,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff80818185e7f9390185f6553ae750e1",
-      "title": "山西省社区居家养老服务条例",
-      "gbrq": "2022-09-28",
-      "sxrq": "2023-01-01",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff80818185e7f7ab0185f64f492e3a4f",
-      "title": "山西省泉域水资源保护条例",
-      "gbrq": "2022-09-28",
-      "sxrq": "2022-12-01",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818185e7f9390185f63cbc5f4e82",
@@ -38992,7 +39190,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省反不正当竞争条例+_20220928.docx"
     },
     {
       "bbbs": "ff80818185e7f9390185f64656b14fb4",
@@ -39007,7 +39208,46 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省绿色建筑发展条例_20220928.doc"
+    },
+    {
+      "bbbs": "ff80818185e7f9390185f6553ae750e1",
+      "title": "山西省社区居家养老服务条例",
+      "gbrq": "2022-09-28",
+      "sxrq": "2023-01-01",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff80818185e7f7ab0185f64f492e3a4f",
+      "title": "山西省泉域水资源保护条例",
+      "gbrq": "2022-09-28",
+      "sxrq": "2022-12-01",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181842c261c01852d4c84b63061",
@@ -39022,7 +39262,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "忻州市五台山风景名胜区条例_20221009.docx"
     },
     {
       "bbbs": "ff808181844232f7018529935d7b6b5e",
@@ -39037,7 +39280,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "晋中市国家湿地公园保护条例_20221009.docx"
     },
     {
       "bbbs": "ff808181844232f701852d65de1f7217",
@@ -39052,7 +39298,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "太原市城市绿化条例_20221010.docx"
     },
     {
       "bbbs": "ff808181844232f701852d664cbc7221",
@@ -39067,7 +39316,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "太原市流动人口服务管理条例_20221010.docx"
     },
     {
       "bbbs": "ff808181842c261c01852d65a98e30ae",
@@ -39082,7 +39334,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "太原市城市供水管理办法_20221010.docx"
     },
     {
       "bbbs": "ff808181844230ec01852d660a4d0ab7",
@@ -39097,7 +39352,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "太原市雷电灾害防御条例_20221010.docx"
     },
     {
       "bbbs": "ff80818186024e9601860fc1742e412c",
@@ -39112,7 +39370,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省安全生产条例_20221209.docx"
     },
     {
       "bbbs": "ff80818186024df30186154d87de7e59",
@@ -39127,7 +39388,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省整沟治理促进条例_20221209.docx"
     },
     {
       "bbbs": "ff8081818727bc1701876f36ba8d5b2a",
@@ -39142,7 +39406,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省煤炭清洁高效利用促进条例_20221209.docx"
     },
     {
       "bbbs": "ff80818186024df301860fca3f835863",
@@ -39157,7 +39424,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省禁牧轮牧休牧条例_20221209.doc"
     },
     {
       "bbbs": "ff80818186024faf0186154a27966b88",
@@ -39172,7 +39442,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省数字经济促进条例_20221209.docx"
     },
     {
       "bbbs": "ff80818186024faf01860acdab7335f0",
@@ -39187,7 +39460,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "晋城市延河泉域和三姑泉域水资源保护条例_20221213.docx"
     },
     {
       "bbbs": "ff80818186024e960186058093f80739",
@@ -39202,7 +39478,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "晋城市物业管理条例_20221213.docx"
     },
     {
       "bbbs": "ff80818186024e9601860af34f0e2973",
@@ -39217,7 +39496,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "吕梁市城市绿化条例_20221213.doc"
     },
     {
       "bbbs": "ff80818186024faf01860afb14fd391a",
@@ -39232,7 +39514,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "吕梁市停车条例_20221213.doc"
     },
     {
       "bbbs": "ff80818186024faf01860ad5e9f23653",
@@ -39247,7 +39532,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "晋中市云竹湖保护条例_20221216.docx"
     },
     {
       "bbbs": "ff80818186024e9601860b075c3b2b8a",
@@ -39262,7 +39550,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "长治市漳河流域生态修复与保护条例_20221218.doc"
     },
     {
       "bbbs": "ff80818186024df301860adbb58631d8",
@@ -39277,7 +39568,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "临汾市红色文化资源保护传承条例_20230111.docx"
     },
     {
       "bbbs": "ff80818187c29620018831cf01dc253c",
@@ -39292,7 +39586,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省档案管理条例_20230401.docx"
     },
     {
       "bbbs": "ff80818187c29620018831c9c47224d8",
@@ -39307,7 +39604,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T032459+0800",
+      "my_file": "山西省湿地保护条例_20230401.docx"
     },
     {
       "bbbs": "ff80818187c29b500188289a460d1ef4",
