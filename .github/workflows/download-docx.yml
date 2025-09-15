@@ -1,0 +1,55 @@
+name: Download docs
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "15 */2 * * *"
+  workflow_dispatch:
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    permissions:
+      contents: write
+    env:
+      USER: qundao
+      SRC_NAME: law-meta
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Checkout src repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.USER }}/${{ env.SRC_NAME }}
+          token: ${{ secrets.GH_TOKEN }}
+          path: ${{ env.SRC_NAME }}
+          fetch-depth: 1
+          ref: ${{ github.ref }}
+
+      - name: Set up Python 3
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - name: Run script page
+        # if: github.event.schedule == '0 4 * * *'
+        run: |
+          pushd ${{ env.SRC_NAME }} && 
+          bash scripts/run-docx.sh v2a 100 &&
+          popd
+
+      - name: Git auto commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          commit_message: Automated update
+          # commit_options: '--no-verify --signoff'
+          push_options: "--force"
+          file_pattern: "*.json *.docx"

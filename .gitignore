@@ -1,0 +1,26 @@
+# macos
+.DS_Store
+
+# linux
+*~
+
+# ide
+.vscode/
+.idea/
+
+# local
+.trash/
+temp/
+trash/
+data/
+text/
+
+# temp.*
+# .github/
+
+*.txt
+*.csv
+*.tsv
+*.json
+
+!records.json
