@@ -1,9 +1,9 @@
 {
-  "update": "20250915T233445+0800",
+  "update": "20250915T234624+0800",
   "duplicate": {},
   "stats": {
     "total": 6401,
-    "download": 1100,
+    "download": 1200,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -18406,6 +18406,60 @@
       "my_file": "mobile"
     },
     {
+      "bbbs": "ff8080816ea248e7016ea6e29d382026",
+      "title": "沧州市快递条例",
+      "gbrq": "2019-09-28",
+      "sxrq": "2020-01-01",
+      "sxx": 3,
+      "zdjgName": "沧州市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T233223+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8080816ecb2302016eda66cde260f7",
+      "title": "河北省租赁房屋治安管理条例",
+      "gbrq": "2019-09-28",
+      "sxrq": "2020-01-01",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T233223+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8080816ecb2302016eda62f7b160c3",
+      "title": "衡水市城市市容和环境卫生管理条例",
+      "gbrq": "2019-09-28",
+      "sxrq": "2019-12-01",
+      "sxx": 3,
+      "zdjgName": "衡水市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T233223+0800",
+      "my_file": "mobile"
+    },
+    {
       "bbbs": "ff8080816ecb2302016eda802a9261c5",
       "title": "石家庄市正定古城保护条例",
       "gbrq": "2019-09-28",
@@ -18494,60 +18548,6 @@
       "my_status": 200,
       "my_time": "20250915T233223+0800",
       "my_file": "唐山市大气污染防治若干规定_20190928.doc"
-    },
-    {
-      "bbbs": "ff8080816ea248e7016ea6e29d382026",
-      "title": "沧州市快递条例",
-      "gbrq": "2019-09-28",
-      "sxrq": "2020-01-01",
-      "sxx": 3,
-      "zdjgName": "沧州市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250915T233223+0800",
-      "my_file": "mobile"
-    },
-    {
-      "bbbs": "ff8080816ecb2302016eda66cde260f7",
-      "title": "河北省租赁房屋治安管理条例",
-      "gbrq": "2019-09-28",
-      "sxrq": "2020-01-01",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250915T233223+0800",
-      "my_file": "mobile"
-    },
-    {
-      "bbbs": "ff8080816ecb2302016eda62f7b160c3",
-      "title": "衡水市城市市容和环境卫生管理条例",
-      "gbrq": "2019-09-28",
-      "sxrq": "2019-12-01",
-      "sxx": 3,
-      "zdjgName": "衡水市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250915T233223+0800",
-      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816fbc57c1016fc239c8000af1",
@@ -19774,36 +19774,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff80808177e75f88017906dd66495b23",
-      "title": "河北省信息化条例",
-      "gbrq": "2021-03-31",
-      "sxrq": "2021-05-01",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff80808177e75f88017906f83c1e5c02",
-      "title": "河北省县乡两级人民代表大会选举实施细则",
-      "gbrq": "2021-03-31",
-      "sxrq": "2021-03-31",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
       "bbbs": "ff80808177e75f88017906e6b5ea5b65",
       "title": "河北省乡镇和街道综合行政执法条例",
       "gbrq": "2021-03-31",
@@ -19840,6 +19810,42 @@
       "my_file": "mobile"
     },
     {
+      "bbbs": "ff80808177e75f88017906dd66495b23",
+      "title": "河北省信息化条例",
+      "gbrq": "2021-03-31",
+      "sxrq": "2021-05-01",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省信息化条例_20210331.docx"
+    },
+    {
+      "bbbs": "ff80808177e75f88017906f83c1e5c02",
+      "title": "河北省县乡两级人民代表大会选举实施细则",
+      "gbrq": "2021-03-31",
+      "sxrq": "2021-03-31",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省县乡两级人民代表大会选举实施细则_20210331.docx"
+    },
+    {
       "bbbs": "ff80808177e75f8801790768f06c5fc0",
       "title": "沧州市大气污染防治若干规定",
       "gbrq": "2021-04-01",
@@ -19852,7 +19858,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "沧州市大气污染防治若干规定_20210401.doc"
     },
     {
       "bbbs": "ff80808177e75f880179076241695f6a",
@@ -19867,7 +19876,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "廊坊市养犬管理条例_20210403.docx"
     },
     {
       "bbbs": "ff80808177e75f880179072293905d31",
@@ -19882,7 +19894,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "唐山市防灾减灾救灾条例_20210406.doc"
     },
     {
       "bbbs": "ff8081817bf35707017c109907ee24e9",
@@ -19897,7 +19912,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "唐山市文明行为促进条例_20210406.docx"
     },
     {
       "bbbs": "ff8081817bf35874017c1091ef981f6e",
@@ -19912,7 +19930,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "唐山市大气污染防治若干规定_20210406.docx"
     },
     {
       "bbbs": "ff808181791bc99d017955c1d3a61538",
@@ -19927,7 +19948,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "唐山市房地产交易管理条例_20210406.docx"
     },
     {
       "bbbs": "ff8081817bf35874017c1094f7211f8e",
@@ -19942,7 +19966,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "唐山市物业管理条例_20210406.docx"
     },
     {
       "bbbs": "ff80808177e75f880179071bd2de5cf0",
@@ -19957,7 +19984,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "石家庄市西柏坡红色旅游区保护与管理条例_20210407.doc"
     },
     {
       "bbbs": "ff80808177e75f88017907774149604c",
@@ -19972,7 +20002,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "衡水市大气污染防治若干规定_20210407.docx"
     },
     {
       "bbbs": "ff80808177e75f880179070902c15c66",
@@ -19987,7 +20020,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "石家庄市生活垃圾分类管理条例_20210407.doc"
     },
     {
       "bbbs": "ff80808177e75f8801790715351e5cb8",
@@ -20002,7 +20038,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "石家庄市城市市容和环境卫生管理条例_20210407.doc"
     },
     {
       "bbbs": "ff8081817a388fca017a6004bab12666",
@@ -20017,7 +20056,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省养老服务条例_20210528.doc"
     },
     {
       "bbbs": "ff8081817a389105017a5ff9e3ad245c",
@@ -20032,7 +20074,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省节约用水条例_20210528.docx"
     },
     {
       "bbbs": "ff8081817a388fca017a600912d026cb",
@@ -20047,7 +20092,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "廊坊市国土绿化条例_20210531.docx"
     },
     {
       "bbbs": "ff8081817a389105017a6106e7c82ac9",
@@ -20062,7 +20110,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "唐山市集中式饮用水水源地保护管理条例_20210531.docx"
     },
     {
       "bbbs": "ff8081817a388fca017a60ff22802bc3",
@@ -20077,7 +20128,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "石家庄市出租汽车管理条例_20210602.docx"
     },
     {
       "bbbs": "ff8081817a388fca017a5ff520c8257f",
@@ -20092,7 +20146,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817a388fca017a6118f7632ce4",
@@ -20107,7 +20164,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817a389105017a61162c782b73",
@@ -20122,67 +20182,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817b96962b017b9f331c891155",
-      "title": "河北雄安新区条例",
-      "gbrq": "2021-07-29",
-      "sxrq": "2021-09-01",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817b96962b017b9f1101d50feb",
-      "title": "河北省城乡生活垃圾分类管理条例",
-      "gbrq": "2021-07-29",
-      "sxrq": "2021-07-29",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817b96962b017b9f17489c1053",
-      "title": "河北省节约用水条例",
-      "gbrq": "2021-07-29",
-      "sxrq": "2021-07-29",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817b96971c017b9f14412517a6",
-      "title": "河北省发展循环经济条例",
-      "gbrq": "2021-07-29",
-      "sxrq": "2021-07-29",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817b96962b017b9f1bf9db1096",
@@ -20197,7 +20200,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省乡村环境保护和治理条例_20210729.doc"
     },
     {
       "bbbs": "ff8081817b969375017b9f20288a115a",
@@ -20212,7 +20218,82 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省邮政条例_20210729.doc"
+    },
+    {
+      "bbbs": "ff8081817b96962b017b9f331c891155",
+      "title": "河北雄安新区条例",
+      "gbrq": "2021-07-29",
+      "sxrq": "2021-09-01",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817b96962b017b9f1101d50feb",
+      "title": "河北省城乡生活垃圾分类管理条例",
+      "gbrq": "2021-07-29",
+      "sxrq": "2021-07-29",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817b96962b017b9f17489c1053",
+      "title": "河北省节约用水条例",
+      "gbrq": "2021-07-29",
+      "sxrq": "2021-07-29",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817b96971c017b9f14412517a6",
+      "title": "河北省发展循环经济条例",
+      "gbrq": "2021-07-29",
+      "sxrq": "2021-07-29",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817b969375017b9f3dfbc2123d",
@@ -20227,7 +20308,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "唐山市养犬管理条例_20210730.doc"
     },
     {
       "bbbs": "ff8081817bc3006d017bc9752a6910c6",
@@ -20242,7 +20326,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "唐山市养犬管理条例_20210730.doc"
     },
     {
       "bbbs": "ff8081817b96962b017b9f43e93d119b",
@@ -20257,7 +20344,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "石家庄市城市居民委员会组织条例_20210802.doc"
     },
     {
       "bbbs": "ff8081817b969375017b9f4915d6127e",
@@ -20272,7 +20362,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "石家庄市肉品管理条例_20210802.doc"
     },
     {
       "bbbs": "ff8081817b96971c017b9f3b56d518fb",
@@ -20287,7 +20380,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "秦皇岛市旅游市场条例_20210803.doc"
     },
     {
       "bbbs": "ff8081817b96962b017b9f405b3a117f",
@@ -20302,7 +20398,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "邢台市城市供热条例_20210806.docx"
     },
     {
       "bbbs": "ff8081817b96962b017b9f0de2ec0fd3",
@@ -20317,7 +20416,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "邯郸市大气污染防治条例_20210818.doc"
     },
     {
       "bbbs": "ff8081817cbae2b2017ccb32a2845c63",
@@ -20332,7 +20434,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省公安机关警务辅助人员管理条例_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbadfae017ccb346a045380",
@@ -20347,7 +20452,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "塞罕坝森林草原防火条例_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbadfae017ccb152a794ff4",
@@ -20362,7 +20470,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省农业机械管理条例_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbadfae017ccb0541834ea7",
@@ -20377,7 +20488,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省技术市场条例_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbae2b2017ccb284b015b64",
@@ -20392,7 +20506,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省志愿服务条例_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbadfae017ccb1d393150b6",
@@ -20407,7 +20524,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省实施《中华人民共和国文物保护法》办法_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbadfae017ccb171a485044",
@@ -20422,7 +20542,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省实施《中华人民共和国道路交通安全法》办法_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbae136017ccafae2304d31",
@@ -20437,7 +20560,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省大气污染防治条例_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbadfae017ccafe544a4e40",
@@ -20452,7 +20578,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省反不正当竞争条例_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbadfae017ccb19eff15082",
@@ -20467,7 +20596,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省实施《中华人民共和国工会法》办法_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbae136017ccb1f3e7a50af",
@@ -20482,7 +20614,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省水利工程管理条例_20210929.docx"
     },
     {
       "bbbs": "ff8081817cbae136017ccb2a393f520d",
@@ -20497,7 +20632,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cbae136017ccb019c164d87",
@@ -20512,22 +20650,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817cbae2b2017ccb22c4fc5aa3",
-      "title": "河北省外商投资企业工会条例",
-      "gbrq": "2021-09-29",
-      "sxrq": "2021-09-29",
-      "sxx": 1,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cbae2b2017ccb130e0058c4",
@@ -20542,7 +20668,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cbae2b2017ccb0a060f5824",
@@ -20557,22 +20686,28 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
-      "bbbs": "ff8081817cbadfae017ccb36e1f153bc",
-      "title": "秦皇岛市海岸线保护条例",
-      "gbrq": "2021-09-30",
-      "sxrq": "2021-12-01",
-      "sxx": 2,
-      "zdjgName": "秦皇岛市人民代表大会常务委员会",
+      "bbbs": "ff8081817cbae2b2017ccb22c4fc5aa3",
+      "title": "河北省外商投资企业工会条例",
+      "gbrq": "2021-09-29",
+      "sxrq": "2021-09-29",
+      "sxx": 1,
+      "zdjgName": "河北省人民代表大会常务委员会",
       "xgzlHighLight": null,
       "flxz": "地方法规",
       "zdjgCodeId": 190,
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cbadfae017ccb3b143f53f3",
@@ -20587,7 +20722,28 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "秦皇岛市电力设施保护条例_20210930.doc"
+    },
+    {
+      "bbbs": "ff8081817cbadfae017ccb36e1f153bc",
+      "title": "秦皇岛市海岸线保护条例",
+      "gbrq": "2021-09-30",
+      "sxrq": "2021-12-01",
+      "sxx": 2,
+      "zdjgName": "秦皇岛市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cbadfae017ccb4102cd5467",
@@ -20602,7 +20758,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "保定市白石山景区管理条例_20211012.doc"
     },
     {
       "bbbs": "ff8081817cbae136017ccb3eab755399",
@@ -20617,7 +20776,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "保定市养犬管理条例_20211012.doc"
     },
     {
       "bbbs": "ff8081817cbadfae017ccb440c56547a",
@@ -20632,7 +20794,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "衡水市文物保护条例_20211019.docx"
     },
     {
       "bbbs": "ff8081817e008eb5017e0539caae0e09",
@@ -20647,7 +20812,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省电动自行车管理条例_20211123.docx"
     },
     {
       "bbbs": "ff8081817e008c43017e055d87210e2b",
@@ -20662,7 +20830,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "衡水湖保护和治理条例_20211123.docx"
     },
     {
       "bbbs": "ff8081817e00906b017e055ae8c00e16",
@@ -20677,7 +20848,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省土壤污染防治条例_20211123.docx"
     },
     {
       "bbbs": "ff8081817e008c43017e054bd16c0d99",
@@ -20692,7 +20866,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省公路条例_20211123.docx"
     },
     {
       "bbbs": "ff8081817e00906b017e0554dde10ded",
@@ -20707,7 +20884,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省人口与计划生育条例_20211123.docx"
     },
     {
       "bbbs": "ff8081817e008eb5017e051e977d0c44",
@@ -20722,7 +20902,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "沧州市文明行为促进条例_20211126.doc"
     },
     {
       "bbbs": "ff8081817e00906b017e0522fa110c04",
@@ -20737,7 +20920,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "承德市滦河潮河保护条例_20211201.docx"
     },
     {
       "bbbs": "ff8081817e008c43017e052947d10ca1",
@@ -20752,7 +20938,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "承德市文明行为促进条例_20211201.doc"
     },
     {
       "bbbs": "ff8081817e008c43017e056dc87d0ea1",
@@ -20767,7 +20956,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "衡水市养犬管理条例_20211203.doc"
     },
     {
       "bbbs": "ff8081817e008eb5017e057288950fcc",
@@ -20782,7 +20974,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "衡水市物业管理条例_20211203.docx"
     },
     {
       "bbbs": "ff8081817e00906b017e056956b40e6c",
@@ -20797,7 +20992,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "衡水市节约用水管理条例_20211203.docx"
     },
     {
       "bbbs": "ff8081817e008c43017e056117db0e48",
@@ -20812,7 +21010,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "邢台市文明行为促进条例_20211208.doc"
     },
     {
       "bbbs": "ff8081817e9b236f017ea50d7a430125",
@@ -20827,7 +21028,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省宗教事务条例_20220108.docx"
     },
     {
       "bbbs": "ff808181806420f3018068f4a8980e02",
@@ -20842,7 +21046,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省医疗纠纷预防和处理条例_20220330.docx"
     },
     {
       "bbbs": "ff808181806420f3018068ec40920322",
@@ -20857,7 +21064,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省大运河文化遗产保护利用条例_20220330.docx"
     },
     {
       "bbbs": "ff80818180641f88018068eead877c31",
@@ -20872,7 +21082,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818180641e1401806a4f164e1001",
@@ -20887,7 +21100,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181806420f3018068fc147e0ecf",
@@ -20902,7 +21118,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818180641e1401806a4c2f630fee",
@@ -20917,7 +21136,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181806420f301806908545c0f31",
@@ -20932,7 +21154,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818180641e14018068e14a486d92",
@@ -20947,7 +21172,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818180641e14018068e60fb26de7",
@@ -20962,22 +21190,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081818180929401818a9f0aa46015",
-      "title": "河北省数字经济促进条例",
-      "gbrq": "2022-05-27",
-      "sxrq": "2022-07-01",
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818180a12d01818a9a55cf64db",
@@ -20992,7 +21208,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省实施《中华人民共和国人民防空法》办法_20220527.docx"
     },
     {
       "bbbs": "ff8081818180929401818a94ad265fc0",
@@ -21007,7 +21226,28 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省餐饮服务从业人员佩戴口罩规定_20220527.docx"
+    },
+    {
+      "bbbs": "ff8081818180929401818a9f0aa46015",
+      "title": "河北省数字经济促进条例",
+      "gbrq": "2022-05-27",
+      "sxrq": "2022-07-01",
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818180a12d01818a8fbf3c646e",
@@ -21022,7 +21262,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "沧州市大运河文化遗产保护若干规定_20220602.doc"
     },
     {
       "bbbs": "ff8081818180929401818aa15b876041",
@@ -21037,7 +21280,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "邢台市社会信用促进条例_20220608.docx"
     },
     {
       "bbbs": "ff80818182fddabe018315fc53da2904",
@@ -21052,7 +21298,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省港口污染防治条例_20220728.docx"
     },
     {
       "bbbs": "ff80818182fddabe018315ff485b296a",
@@ -21067,7 +21316,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省中小企业促进条例_20220728.docx"
     },
     {
       "bbbs": "ff80818182fdda2a018315daaee1298a",
@@ -21082,7 +21334,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "保定市快递业促进条例_20220801.docx"
     },
     {
       "bbbs": "ff80818182fdda2a01831601f0002b59",
@@ -21097,7 +21352,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "秦皇岛市山海关古城保护条例_20220803.docx"
     },
     {
       "bbbs": "ff80818182fddda5018316a962d0345a",
@@ -21112,7 +21370,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "张家口市机动车停车场管理条例_20220803.docx"
     },
     {
       "bbbs": "ff80818182fddda5018315f634933209",
@@ -21127,7 +21388,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "承德市旅游市场管理条例_20220804.doc"
     },
     {
       "bbbs": "ff80818182fdda2a018315f972b52a85",
@@ -21142,7 +21406,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "承德市城镇住宅物业管理条例_20220804.docx"
     },
     {
       "bbbs": "ff8081818364d9f6018408086bda66ef",
@@ -21157,7 +21424,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省乡村振兴促进条例_20220928.docx"
     },
     {
       "bbbs": "ff8081818364d903018407fa1c9b754f",
@@ -21172,7 +21442,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省人力资源市场条例_20220928.docx"
     },
     {
       "bbbs": "ff8081818364d9030184080f289875cf",
@@ -21187,7 +21460,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省优化行政审批条例_20220928.docx"
     },
     {
       "bbbs": "ff8081818364d903018407f6c4887544",
@@ -21202,7 +21478,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省固体废物污染环境防治条例_20220928.docx"
     },
     {
       "bbbs": "ff8081818364d903018407f33d977529",
@@ -21217,7 +21496,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "河北省供热用热管理规定_20220928.docx"
     },
     {
       "bbbs": "ff8081818364d903018407f13cf6750d",
@@ -21232,7 +21514,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "承德市机动车停车场条例_20220929.docx"
     },
     {
       "bbbs": "ff8081818364d9f6018408117609674d",
@@ -21247,7 +21532,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "唐山市职工工资集体协商条例_20220929.doc"
     },
     {
       "bbbs": "ff808181842c261c0184378986371fe7",
@@ -21262,7 +21550,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "石家庄市供热用热条例_20221002.docx"
     },
     {
       "bbbs": "ff808181842c283a0184378718c432ee",
@@ -21277,7 +21568,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818364d9f6018407e413b86600",
@@ -21292,7 +21586,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818364d903018407e7517874c5",
@@ -21307,7 +21604,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T234352+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181844230ec01857622869d1410",
