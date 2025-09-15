@@ -1,9 +1,9 @@
 {
-  "update": "20250916T011053+0800",
+  "update": "20250916T013156+0800",
   "duplicate": {},
   "stats": {
     "total": 6401,
-    "download": 1600,
+    "download": 1700,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -27010,42 +27010,6 @@
       "my_file": "邯郸市商业网点建设管理条例_.docx"
     },
     {
-      "bbbs": "4028abcc612777930161287cac993831",
-      "title": "邯郸市矿产资源管理条例",
-      "gbrq": null,
-      "sxrq": null,
-      "sxx": 1,
-      "zdjgName": "邯郸市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250916T010835+0800",
-      "my_file": "邯郸市矿产资源管理条例_.docx"
-    },
-    {
-      "bbbs": "4028abcc6127779301612853a712133d",
-      "title": "河北省义务植树条例",
-      "gbrq": null,
-      "sxrq": null,
-      "sxx": 1,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250916T010835+0800",
-      "my_file": "河北省义务植树条例_.docx"
-    },
-    {
       "bbbs": "4028abcc612777930161287678263463",
       "title": "河北省人民代表大会常务委员会议事规则",
       "gbrq": null,
@@ -27062,24 +27026,6 @@
       "my_status": 200,
       "my_time": "20250916T010835+0800",
       "my_file": "河北省人民代表大会常务委员会议事规则_.docx"
-    },
-    {
-      "bbbs": "4028abcc612777930161287855ad361d",
-      "title": "河北省城市绿化管理条例",
-      "gbrq": null,
-      "sxrq": null,
-      "sxx": 1,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250916T010835+0800",
-      "my_file": "河北省城市绿化管理条例_.docx"
     },
     {
       "bbbs": "4028abcc6127779301612875cf1b33b2",
@@ -27512,6 +27458,60 @@
       "my_status": 200,
       "my_time": "20250916T010835+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "4028abcc612777930161287cac993831",
+      "title": "邯郸市矿产资源管理条例",
+      "gbrq": null,
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "邯郸市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T010835+0800",
+      "my_file": "邯郸市矿产资源管理条例_.docx"
+    },
+    {
+      "bbbs": "4028abcc6127779301612853a712133d",
+      "title": "河北省义务植树条例",
+      "gbrq": null,
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T010835+0800",
+      "my_file": "河北省义务植树条例_.docx"
+    },
+    {
+      "bbbs": "4028abcc612777930161287855ad361d",
+      "title": "河北省城市绿化管理条例",
+      "gbrq": null,
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T010835+0800",
+      "my_file": "河北省城市绿化管理条例_.docx"
     },
     {
       "bbbs": "2c90e5ba6a291d8f016daa730c0b64e7",
@@ -28036,60 +28036,6 @@
       "my_file": "围场满族蒙古族自治县城镇市容和环境卫生条例_20240619.docx"
     },
     {
-      "bbbs": "4028abcc6127779301612819a5a95a87",
-      "title": "围场满族蒙古族自治县城镇市容和环境卫生条例",
-      "gbrq": null,
-      "sxrq": null,
-      "sxx": 1,
-      "zdjgName": "围场满族蒙古族自治县人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 270,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250916T010835+0800",
-      "my_file": "围场满族蒙古族自治县城镇市容和环境卫生条例_.docx"
-    },
-    {
-      "bbbs": "4028abcc6127779301612819b1795a93",
-      "title": "大厂回族自治县环境保护条例",
-      "gbrq": null,
-      "sxrq": null,
-      "sxx": 1,
-      "zdjgName": "大厂回族自治县人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 270,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250916T010835+0800",
-      "my_file": "大厂回族自治县环境保护条例_.docx"
-    },
-    {
-      "bbbs": "4028abcc6127779301612812c1f0534a",
-      "title": "青龙满族自治县村集体经济组织财务管理条例",
-      "gbrq": null,
-      "sxrq": null,
-      "sxx": 1,
-      "zdjgName": "青龙满族自治县人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 270,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12,
-      "my_status": 200,
-      "my_time": "20250916T010835+0800",
-      "my_file": "青龙满族自治县村集体经济组织财务管理条例_.docx"
-    },
-    {
       "bbbs": "4028abcc61277793016128190a9f59d8",
       "title": "宽城满族自治县殡葬管理条例",
       "gbrq": null,
@@ -28468,6 +28414,60 @@
       "my_file": "mobile"
     },
     {
+      "bbbs": "4028abcc6127779301612819a5a95a87",
+      "title": "围场满族蒙古族自治县城镇市容和环境卫生条例",
+      "gbrq": null,
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "围场满族蒙古族自治县人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 270,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T010835+0800",
+      "my_file": "围场满族蒙古族自治县城镇市容和环境卫生条例_.docx"
+    },
+    {
+      "bbbs": "4028abcc6127779301612819b1795a93",
+      "title": "大厂回族自治县环境保护条例",
+      "gbrq": null,
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "大厂回族自治县人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 270,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T010835+0800",
+      "my_file": "大厂回族自治县环境保护条例_.docx"
+    },
+    {
+      "bbbs": "4028abcc6127779301612812c1f0534a",
+      "title": "青龙满族自治县村集体经济组织财务管理条例",
+      "gbrq": null,
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "青龙满族自治县人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 270,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T010835+0800",
+      "my_file": "青龙满族自治县村集体经济组织财务管理条例_.docx"
+    },
+    {
       "bbbs": "ff80808172b5f24f01732700a8c033ca",
       "title": "河北省人大常委会关于促进农作物秸秆综合利用和禁止露天焚烧的决定",
       "gbrq": "2018-05-31",
@@ -28822,7 +28822,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于修改《邯郸市城市供水用水管理条例》的决定_20040726.docx"
     },
     {
       "bbbs": "ff8081818119c86b01813d19d7f608c5",
@@ -28837,7 +28840,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于修改《邯郸市城市绿化条例》的决定_20060413.docx"
     },
     {
       "bbbs": "454a64eab3684137b330a99fbdaf8ba2",
@@ -28852,7 +28858,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改部分法规的决定_20100730.docx"
     },
     {
       "bbbs": "ff8081818093f23601809db514a603b5",
@@ -28867,7 +28876,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于修改《邯郸市城市供水用水管理条例》的决定_20110622.docx"
     },
     {
       "bbbs": "7726d3f8f9c4431d991df21812c0f4c4",
@@ -28882,7 +28894,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于修改《邯郸市散装水泥和预拌混凝土管理条例》等五件地方性法规的决定_20151019.doc"
     },
     {
       "bbbs": "ff8081818c3ce0ed018cce0179ae3426",
@@ -28897,7 +28912,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改部分法规的决定_20170928.docx"
     },
     {
       "bbbs": "172a03e085614ab794eb85c35e88d0d2",
@@ -28912,7 +28930,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于废止《河北省减少污染物排放条例》和《河北省著名商标认定和保护条例》的决定_20171201.docx"
     },
     {
       "bbbs": "ff8081817accaf34017ae208d3f41020",
@@ -28927,7 +28948,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "唐山市人民代表大会常务委员会关于废止《唐山市暂住人口管理条例》的决定_20171204.docx"
     },
     {
       "bbbs": "ff8081818c3ce31f018cfcee7a1e4c13",
@@ -28942,7 +28966,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于修改《邯郸市城市绿化条例》等九件地方性法规的决定_20180412.docx"
     },
     {
       "bbbs": "483a5565b1014e00ba525cddc1aec9d6",
@@ -28957,7 +28984,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改部分法规的决定_20180531.docx"
     },
     {
       "bbbs": "00950bf216724159bbb2357489f1d56f",
@@ -28972,7 +29002,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于修改《邯郸市减少污染物排放条例》和《邯郸市城市绿化条例》的决定_20181217.docx"
     },
     {
       "bbbs": "ff808081752b7d4301756e1f61f53f57",
@@ -28987,7 +29020,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于废止《邯郸市商业网点建设管理条例》和《邯郸市人民代表大会常务委员会关于废止地方性法规中若干行政许可规定的决定》的决定_20201016.doc"
     },
     {
       "bbbs": "ff808181865eebab0186d883be8021d2",
@@ -29002,22 +29038,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff80818181a8104b0181dbeda0391951",
-      "title": "邯郸市人民代表大会常务委员会关于修改部分地方性法规的决定",
-      "gbrq": "2020-12-09",
-      "sxrq": "2021-01-01",
-      "sxx": null,
-      "zdjgName": "邯郸市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "修改、废止的决定",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 310,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "石家庄市人民代表大会常务委员会关于修改《石家庄市供热用热条例》的决定_20201128.docx"
     },
     {
       "bbbs": "ff808181818ea4040181dbde7af0206a",
@@ -29032,7 +29056,28 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于修改部分地方性法规的决定_20201209.doc"
+    },
+    {
+      "bbbs": "ff80818181a8104b0181dbeda0391951",
+      "title": "邯郸市人民代表大会常务委员会关于修改部分地方性法规的决定",
+      "gbrq": "2020-12-09",
+      "sxrq": "2021-01-01",
+      "sxx": null,
+      "zdjgName": "邯郸市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "修改、废止的决定",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 310,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于修改部分地方性法规的决定_20201209.doc"
     },
     {
       "bbbs": "ff80818181a8104b0181dc8269701b70",
@@ -29047,7 +29092,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于修改部分地方性法规的决定_20201209.doc"
     },
     {
       "bbbs": "ff808181818ea4040181dc8fb9ce230d",
@@ -29062,7 +29110,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于修改部分地方性法规的决定_20201209.doc"
     },
     {
       "bbbs": "ff8081817d99a651017dae3f78aa0cab",
@@ -29077,7 +29128,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省县乡两级人民代表大会选举实施细则》的决定_20210331.docx"
     },
     {
       "bbbs": "ff8081817d99a651017dae4fc7b00cdd",
@@ -29092,7 +29146,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "沧州市人民代表大会常务委员会关于修改《沧州市市容和环境卫生管理条例》的决定_20210401.doc"
     },
     {
       "bbbs": "ff8081817d99a43a017dae00f5ca0c59",
@@ -29107,7 +29164,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "唐山市人民代表大会常务委员会关于废止《唐山市矿产资源开采管理条例》和《唐山市粉煤灰综合利用管理条例》的决定_20210406.doc"
     },
     {
       "bbbs": "ff8081817be7c2e4017c309b15535124",
@@ -29122,7 +29182,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817a8619ef017a99bdf8f11439",
@@ -29137,7 +29200,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817a861f5a017a99a3402013a8",
@@ -29152,37 +29218,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff8081817bbfc2c9017bc43d711f026d",
-      "title": "河北省人民代表大会常务委员会关于修改《河北省发展循环经济条例》等五部法规的决定",
-      "gbrq": "2021-07-29",
-      "sxrq": "2021-07-29",
-      "sxx": null,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "修改、废止的决定",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 310,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "ff808181835fb68f01840784347155bf",
-      "title": "河北省人民代表大会常务委员会关于修改《河北省发展循环经济条例》等五部法规的决定",
-      "gbrq": "2021-07-29",
-      "sxrq": "2021-07-29",
-      "sxx": null,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "修改、废止的决定",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 310,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181835fb68f0184079da3145605",
@@ -29197,7 +29236,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省发展循环经济条例》等五部法规的决定_20210729.docx"
     },
     {
       "bbbs": "ff808181835fb68f01840787340d55e0",
@@ -29212,7 +29254,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省发展循环经济条例》等五部法规的决定_20210729.docx"
     },
     {
       "bbbs": "ff808181835fb1140184079f6e16560f",
@@ -29227,7 +29272,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省发展循环经济条例》等五部法规的决定_20210729.docx"
     },
     {
       "bbbs": "ff808181835fb68f0183ff62eab85577",
@@ -29242,7 +29290,46 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省发展循环经济条例》等五部法规的决定_20210729.docx"
+    },
+    {
+      "bbbs": "ff8081817bbfc2c9017bc43d711f026d",
+      "title": "河北省人民代表大会常务委员会关于修改《河北省发展循环经济条例》等五部法规的决定",
+      "gbrq": "2021-07-29",
+      "sxrq": "2021-07-29",
+      "sxx": null,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "修改、废止的决定",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 310,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808181835fb68f01840784347155bf",
+      "title": "河北省人民代表大会常务委员会关于修改《河北省发展循环经济条例》等五部法规的决定",
+      "gbrq": "2021-07-29",
+      "sxrq": "2021-07-29",
+      "sxx": null,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "修改、废止的决定",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 310,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817bbfc2c9017bc94c9e3406e3",
@@ -29257,7 +29344,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "石家庄市人民代表大会常务委员会关于修改《石家庄市城市居民委员会组织条例》《石家庄市肉品管理条例》的决定_20210802.doc"
     },
     {
       "bbbs": "ff808181818ea1a50181dc9231392274",
@@ -29272,7 +29362,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "石家庄市人民代表大会常务委员会关于修改《石家庄市城市居民委员会组织条例》《石家庄市肉品管理条例》的决定_20210802.doc"
     },
     {
       "bbbs": "ff808181818ea1a50181dc9307542281",
@@ -29287,7 +29380,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "石家庄市人民代表大会常务委员会关于修改《石家庄市城市居民委员会组织条例》《石家庄市肉品管理条例》的决定_20210802.doc"
     },
     {
       "bbbs": "ff8081817bbfcb02017bc96a57470719",
@@ -29302,7 +29398,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "石家庄市人民代表大会常务委员会关于废止《石家庄市房屋登记条例》等八部地方性法规的决定_20210805.doc"
     },
     {
       "bbbs": "ff8081817d124368017d27c24a7c1928",
@@ -29317,7 +29416,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于废止《河北省民办教育条例》等三部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff8081817f48d8de017f6362681d0c0d",
@@ -29332,7 +29434,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff80818184cc7b200184f15ed6a5080a",
@@ -29347,7 +29452,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb1140183ff45b21a53c0",
@@ -29362,7 +29470,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb1140183ff535fac544a",
@@ -29377,7 +29488,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb68f0183ff4f32635418",
@@ -29392,7 +29506,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb1140183ff592ce954c1",
@@ -29407,7 +29524,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb1140183ff5bbd4154e0",
@@ -29422,7 +29542,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb68f0183ff50f4135432",
@@ -29437,7 +29560,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb68f0183ff570a5e54af",
@@ -29452,7 +29578,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb68f0183ff5ce303551f",
@@ -29467,7 +29596,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb1140183ff5e4e1e5516",
@@ -29482,7 +29614,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb68f0183ff5f035a5554",
@@ -29497,7 +29632,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省技术市场条例》等十四部法规的决定_20210929.docx"
     },
     {
       "bbbs": "ff808181835fb68f0183ff519cb35448",
@@ -29512,7 +29650,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181835fb68f0183ff57c30754c5",
@@ -29527,7 +29668,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181835fb1140183ff548180546b",
@@ -29542,7 +29686,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817dea9c18017e4d4d033b1d22",
@@ -29557,7 +29704,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181818ea4040181dd2223e52659",
@@ -29572,7 +29722,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "c0e99b7d61644895b9799964de184442",
@@ -29587,7 +29740,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "唐山市人民代表大会常务委员会关于废止《唐山市城镇国有土地使用权出让转让管理条例》的决定_20220801.doc"
     },
     {
       "bbbs": "412446e718c04fd1bedfc6ede4db9f78",
@@ -29602,7 +29758,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于废止《河北省信访条例》的决定_20220928.doc"
     },
     {
       "bbbs": "bd306a78380249e9acde32a9a11430e2",
@@ -29617,7 +29776,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "唐山市人民代表大会常务委员会关于修改《唐山市职工工资集体协商条例》的决定_20220929.doc"
     },
     {
       "bbbs": "c70701182d484c49bf0d637b2c6db142",
@@ -29632,7 +29794,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "秦皇岛市人民代表大会常务委员会关于修改《秦皇岛市物业管理条例》的决定_20221201.doc"
     },
     {
       "bbbs": "eb0135fa07d04a9e90e7b95dce618bb8",
@@ -29647,7 +29812,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "承德市人民代表大会常务委员会关于修改《承德市城市供热条例》的决定_20230410.docx"
     },
     {
       "bbbs": "75cf68f215174ddcbbb5949db650a81a",
@@ -29662,7 +29830,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省地震安全性评价管理条例》等七部法规的决定_20230530.docx"
     },
     {
       "bbbs": "2ad5b1676c504f49a5a5f8d41e59b8df",
@@ -29677,7 +29848,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "丰宁满族自治县人民代表大会关于修改《丰宁满族自治县土地开发利用保护条例》等四部单行条例的决定_20230606.docx"
     },
     {
       "bbbs": "736c8c05145444839a2d72e6d8033d4d",
@@ -29692,7 +29866,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "石家庄市人民代表大会常务委员会关于修改《石家庄市岗南黄壁庄水库饮用水水源污染防治条例》的决定_20230925.docx"
     },
     {
       "bbbs": "1cf9c020031944fa996f8ce988bed4b0",
@@ -29707,7 +29884,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "唐山市人民代表大会常务委员会关于修改《唐山市地方公路条例》和《唐山市城市绿化管理条例》的决定_20231205.docx"
     },
     {
       "bbbs": "883048fb279c40869e6b9609e98e959f",
@@ -29722,7 +29902,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省多元化解纠纷条例》等六部法规的决定_20240328.docx"
     },
     {
       "bbbs": "a451a5f0b5854d7fa7eda322850684a7",
@@ -29737,7 +29920,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《承德避暑山庄及周围寺庙保护管理条例》的决定_20240528.docx"
     },
     {
       "bbbs": "8348325ed2034d1caa491105ec12a635",
@@ -29752,7 +29938,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省水利工程管理条例》等三部法规的决定_20240528.docx"
     },
     {
       "bbbs": "845c0be4f36f482c88aca522e5b0a48c",
@@ -29767,7 +29956,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于废止《河北省建设工程抗震管理条例》等四部法规的决定_20240528.docx"
     },
     {
       "bbbs": "7fc9cec2d1a442b282587cf67bdc235c",
@@ -29782,7 +29974,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "石家庄市人民代表大会常务委员会关于废止《石家庄市农村集体经济组织财务审计条例》等四部地方性法规的决定_20240605.docx"
     },
     {
       "bbbs": "87c292eef329401d8ba216689177c4e4",
@@ -29797,7 +29992,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "秦皇岛市人民代表大会常务委员会关于修改、废止部分地方性法规的决定_20240730.docx"
     },
     {
       "bbbs": "06d306c15d8f4acf92b223229354895f",
@@ -29812,7 +30010,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "石家庄市人民代表大会常务委员会关于废止《石家庄市市区生活饮用水地下水源保护区污染防治条例》的决定_20240802.docx"
     },
     {
       "bbbs": "9ed943a5d6744b8c861256b0f1b3c6de",
@@ -29827,7 +30028,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "邯郸市人民代表大会常务委员会关于废止《邯郸市矿产资源管理条例》的决定_20240809.docx"
     },
     {
       "bbbs": "ebe9677dba1b44ee9c2286cfc63e745f",
@@ -29842,7 +30046,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "石家庄市人民代表大会常务委员会关于修改《石家庄市制定地方性法规条例》的决定_20240930.docx"
     },
     {
       "bbbs": "41057bb61447469486968f3aa4439c8e",
@@ -29857,7 +30064,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于修改《河北省食盐加碘消除碘缺乏危害监督管理条例》等九部法规的决定_20241128.docx"
     },
     {
       "bbbs": "a83e8f1e8b0f4b12beb01061cc2d9988",
@@ -29872,7 +30082,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省人民代表大会常务委员会关于废止《河北省外商投资企业工会条例》等三部法规的决定_20241128.docx"
     },
     {
       "bbbs": "20b4ed3d2ebc414c91685e51572b1eca",
@@ -29887,7 +30100,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "沧州市人民代表大会常务委员会关于修改《沧州市地方立法条例》的决定_20241203.docx"
     },
     {
       "bbbs": "8ef2ecb0123e42188810fac3e9abc2f3",
@@ -29902,7 +30118,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "石家庄市人民代表大会常务委员会关于修改《石家庄市肉品管理条例》的决定_20250407.docx"
     },
     {
       "bbbs": "3cd1719b1a2a452581c877c4acdca8d3",
@@ -29917,7 +30136,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ad4785702f624b1eaa4b8d7cc3605d6b",
@@ -29932,7 +30154,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "937cbf6365c14493831294f9456bf63d",
@@ -29947,7 +30172,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "1d7a3500027140148d64a2cb8584df50",
@@ -29962,22 +30190,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "4028abcc612777930161288a440a4103",
-      "title": "邯郸市城市供热条例",
-      "gbrq": null,
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "邯郸市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 9999,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127fe4df33f6f",
@@ -29992,7 +30208,28 @@
       "flfgCodeId": 9999,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "河北省集体合同条例_.docx"
+    },
+    {
+      "bbbs": "4028abcc612777930161288a440a4103",
+      "title": "邯郸市城市供热条例",
+      "gbrq": null,
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "邯郸市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 9999,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc6127779301612802b0f84450",
@@ -30007,7 +30244,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省实施《中华人民共和国集会游行示威法》办法_19900228.doc"
     },
     {
       "bbbs": "4028abcc612777930161280726de48ec",
@@ -30022,7 +30262,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省水工程管理条例_19901116.doc"
     },
     {
       "bbbs": "4028abcc61277793016127f4d31634f4",
@@ -30037,7 +30280,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省河道管理条例_19940721.doc"
     },
     {
       "bbbs": "4028abcc6127779301612803409544ea",
@@ -30052,7 +30298,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省建筑市场管理条例_19940929.doc"
     },
     {
       "bbbs": "4028abcc61277793016127f5e51c3628",
@@ -30067,7 +30316,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省人民代表大会代表视察办法_19940929.doc"
     },
     {
       "bbbs": "4028abcc61277793016127f4e0fd3504",
@@ -30082,7 +30334,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省实施《中华人民共和国城市居民委员会组织法》办法_19950518.doc"
     },
     {
       "bbbs": "4028abcc61277793016127ee5ca62e23",
@@ -30097,7 +30352,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省科学技术进步条例_19950921.doc"
     },
     {
       "bbbs": "4028abcc61277793016127f4e5fd3508",
@@ -30112,7 +30370,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省地方病防治条例_19950921.doc"
     },
     {
       "bbbs": "4028abcc61277793016127f5889c35bf",
@@ -30127,7 +30388,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省实施《中华人民共和国教师法》办法_19960801.doc"
     },
     {
       "bbbs": "4028abcc61277793016128138a6e541c",
@@ -30142,7 +30406,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省红十字会条例_19960801.doc"
     },
     {
       "bbbs": "4028abcc61277793016127ed6cbb2d2d",
@@ -30157,7 +30424,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省农村集体经济审计暂行条例_19960801.doc"
     },
     {
       "bbbs": "4028abcc612777930161281381b55412",
@@ -30172,7 +30442,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省消费者权益保护条例_19961203.doc"
     },
     {
       "bbbs": "4028abcc612777930161287d856f389b",
@@ -30187,7 +30460,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省实施中华人民共和国渔业法办法_19970527.doc"
     },
     {
       "bbbs": "4028abcc6127779301612870b7ac2ed1",
@@ -30202,7 +30478,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省产品质量监督管理条例_19970527.doc"
     },
     {
       "bbbs": "4028abcc6127779301612818bb01597a",
@@ -30217,7 +30496,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省外商投资企业工会条例_19970730.doc"
     },
     {
       "bbbs": "4028abcc612777930161287667633451",
@@ -30232,7 +30514,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省统计检查监督规定_19970730.docx"
     },
     {
       "bbbs": "4028abcc6127779301612818b37a5972",
@@ -30247,7 +30532,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省实施《中华人民共和国职业教育法》办法_19970928.doc"
     },
     {
       "bbbs": "4028abcc612777930161285e9f491dd5",
@@ -30262,7 +30550,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "大同市城市市容和环境卫生管理办法_19971204.doc"
     },
     {
       "bbbs": "4028abcc6127779301612814fd0c55a5",
@@ -30277,7 +30568,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省科学技术协会条例_19980105.doc"
     },
     {
       "bbbs": "4028abcc6127779301612815045055af",
@@ -30292,7 +30586,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "山西省气象条例_19980929.doc"
     },
     {
       "bbbs": "4028abcc6127779301612815006955aa",
@@ -30307,7 +30604,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T012942+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161281507ff55b4",
