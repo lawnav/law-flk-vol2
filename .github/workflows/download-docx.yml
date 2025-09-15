@@ -5,13 +5,13 @@ on:
     branches:
       - main
   schedule:
-    - cron: "15 */2 * * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch:
 
 jobs:
   process:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
 
     permissions:
       contents: write
