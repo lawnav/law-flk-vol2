@@ -1,9 +1,9 @@
 {
-  "update": "20250916T054355+0800",
+  "update": "20250916T061128+0800",
   "duplicate": {},
   "stats": {
     "total": 6401,
-    "download": 2900,
+    "download": 3000,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -50752,42 +50752,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff8081817b63b895017b7b1ec8e04449",
-      "title": "内蒙古自治区边境管理条例",
-      "gbrq": "2020-11-26",
-      "sxrq": "2020-11-26",
-      "sxx": 3,
-      "zdjgName": "内蒙古自治区人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 210,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/内蒙古",
-      "my_cate": 14,
-      "my_status": 200,
-      "my_time": "20250916T054143+0800",
-      "my_file": "内蒙古自治区边境管理条例_20201126.doc"
-    },
-    {
-      "bbbs": "ff8081817b63b679017b70e8c580073a",
-      "title": "内蒙古自治区农村牧区公路条例",
-      "gbrq": "2020-11-26",
-      "sxrq": "2021-01-01",
-      "sxx": 2,
-      "zdjgName": "内蒙古自治区人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 210,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/内蒙古",
-      "my_cate": 14,
-      "my_status": 200,
-      "my_time": "20250916T054143+0800",
-      "my_file": "内蒙古自治区农村牧区公路条例_20201126.doc"
-    },
-    {
       "bbbs": "ff8081817b63b679017b70ef63d1077a",
       "title": "内蒙古自治区精神卫生条例",
       "gbrq": "2020-11-26",
@@ -50894,6 +50858,42 @@
       "my_status": 200,
       "my_time": "20250916T054143+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817b63b895017b7b1ec8e04449",
+      "title": "内蒙古自治区边境管理条例",
+      "gbrq": "2020-11-26",
+      "sxrq": "2020-11-26",
+      "sxx": 3,
+      "zdjgName": "内蒙古自治区人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 210,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/内蒙古",
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T054143+0800",
+      "my_file": "内蒙古自治区边境管理条例_20201126.doc"
+    },
+    {
+      "bbbs": "ff8081817b63b679017b70e8c580073a",
+      "title": "内蒙古自治区农村牧区公路条例",
+      "gbrq": "2020-11-26",
+      "sxrq": "2021-01-01",
+      "sxx": 2,
+      "zdjgName": "内蒙古自治区人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 210,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/内蒙古",
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T054143+0800",
+      "my_file": "内蒙古自治区农村牧区公路条例_20201126.doc"
     },
     {
       "bbbs": "ff8081817b63b935017b7114d4cd07ba",
@@ -51058,7 +51058,7 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff8081817bf35874017c11ce292f229b",
+      "bbbs": "ff8081817b63b679017b7705db58260e",
       "title": "内蒙古自治区各级人民代表大会选举实施细则",
       "gbrq": "2021-03-30",
       "sxrq": "2021-03-30",
@@ -51076,7 +51076,7 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff8081817b63b679017b7705db58260e",
+      "bbbs": "ff8081817bf35874017c11ce292f229b",
       "title": "内蒙古自治区各级人民代表大会选举实施细则",
       "gbrq": "2021-03-30",
       "sxrq": "2021-03-30",
@@ -51292,24 +51292,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff80818188c8b06b01892a13ba7e4b50",
-      "title": "呼和浩特市城市房地产交易管理条例",
-      "gbrq": "2021-08-24",
-      "sxrq": "2021-08-24",
-      "sxx": 3,
-      "zdjgName": "呼和浩特市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 210,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/内蒙古",
-      "my_cate": 14,
-      "my_status": 200,
-      "my_time": "20250916T054143+0800",
-      "my_file": "呼和浩特市城市房地产交易管理条例_20210824.docx"
-    },
-    {
       "bbbs": "ff8081817ca77b71017cbaa565ce1e7d",
       "title": "呼和浩特市实施《中华人民共和国工会法》办法",
       "gbrq": "2021-08-24",
@@ -51344,6 +51326,24 @@
       "my_status": 200,
       "my_time": "20250916T054143+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff80818188c8b06b01892a13ba7e4b50",
+      "title": "呼和浩特市城市房地产交易管理条例",
+      "gbrq": "2021-08-24",
+      "sxrq": "2021-08-24",
+      "sxx": 3,
+      "zdjgName": "呼和浩特市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 210,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/内蒙古",
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T054143+0800",
+      "my_file": "呼和浩特市城市房地产交易管理条例_20210824.docx"
     },
     {
       "bbbs": "ff8081817c92ddac017c9780ae7902e4",
@@ -52222,7 +52222,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区重要经济目标防护管理条例_20220728.doc"
     },
     {
       "bbbs": "ff80818182d3f5810182d7d3752b0898",
@@ -52237,7 +52240,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区禁毒条例_20220728.doc"
     },
     {
       "bbbs": "ff80818182d3c73b0182d7e50d200a24",
@@ -52252,7 +52258,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区道路运输条例_20220728.doc"
     },
     {
       "bbbs": "ff80818182d3f5810182d7dbbbb608e5",
@@ -52267,7 +52276,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区公共图书馆条例_20220728.docx"
     },
     {
       "bbbs": "ff80818182d3c73b0182d7dc7e6909e5",
@@ -52282,7 +52294,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区无线电管理条例_20220728.doc"
     },
     {
       "bbbs": "ff80818182d3c73b0182d7d91cbb09cb",
@@ -52297,7 +52312,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区法治宣传教育条例_20220728.doc"
     },
     {
       "bbbs": "ff80818182d3c73b0182d7e5e2060a28",
@@ -52312,7 +52330,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区高速公路条例_20220728.doc"
     },
     {
       "bbbs": "ff80818182d3e4cf0182d7e6bdd908e4",
@@ -52327,7 +52348,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区公路条例_20220728.doc"
     },
     {
       "bbbs": "ff80818182d3e4cf0182d81534060b78",
@@ -52342,7 +52366,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼伦贝尔市城市市容和环境卫生管理条例_20220803.doc"
     },
     {
       "bbbs": "ff80818182d3e4cf0182d7f54e9f098a",
@@ -52357,7 +52384,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市节约用水管理条例_20220803.doc"
     },
     {
       "bbbs": "ff80818182d3c73b0182d7fa91d70ad0",
@@ -52372,7 +52402,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市城市绿化条例_20220803.doc"
     },
     {
       "bbbs": "ff808181844232f7018534b1acdf7f4b",
@@ -52387,7 +52420,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区固体废物污染环境防治条例_20220928.doc"
     },
     {
       "bbbs": "ff808181844232f7018534c10cb77f9e",
@@ -52402,7 +52438,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区规章设定罚款限额规定_20220928.doc"
     },
     {
       "bbbs": "ff808181844232f7018534c10c8c7f99",
@@ -52417,7 +52456,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区动物防疫条例_20220928.doc"
     },
     {
       "bbbs": "ff808181842c261c018534c10c693d8d",
@@ -52432,7 +52474,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区实施《中华人民共和国农村土地承包法》办法_20220928.doc"
     },
     {
       "bbbs": "ff808181842c261c018534c10c883d90",
@@ -52447,7 +52492,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区实施《中华人民共和国水法》办法_20220928.doc"
     },
     {
       "bbbs": "ff808181844232f7018534bc611a7f79",
@@ -52462,7 +52510,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区消防条例_20220928.doc"
     },
     {
       "bbbs": "ff808181844232f7018534ae45647f3a",
@@ -52477,7 +52528,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区志愿服务条例_20220928.doc"
     },
     {
       "bbbs": "ff808181842c261c018534b7a0763d5d",
@@ -52492,7 +52546,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区城镇供热条例_20220928.doc"
     },
     {
       "bbbs": "ff808181842c261c0185424ded0a4dd1",
@@ -52507,7 +52564,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市社会治理促进条例_20220930.docx"
     },
     {
       "bbbs": "ff808181844230ec01853f284bfa2ea0",
@@ -52522,7 +52582,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "通辽市极端天气应对条例_20220930.doc"
     },
     {
       "bbbs": "ff808181844232f701854248df5f0f94",
@@ -52537,52 +52600,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
-    },
-    {
-      "bbbs": "ff808181844230ec01853f2cc8ee2eb8",
-      "title": "赤峰市文明行为促进条例",
-      "gbrq": "2022-10-26",
-      "sxrq": "2022-11-01",
-      "sxx": 3,
-      "zdjgName": "赤峰市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 210,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
-    },
-    {
-      "bbbs": "ff808181844232f701853f38b00b0bde",
-      "title": "赤峰市农村牧区人居环境治理条例",
-      "gbrq": "2022-10-26",
-      "sxrq": "2022-10-26",
-      "sxx": 3,
-      "zdjgName": "赤峰市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 210,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
-    },
-    {
-      "bbbs": "ff808181844230ec01853f3421e62edd",
-      "title": "赤峰市地下水保护条例",
-      "gbrq": "2022-10-26",
-      "sxrq": "2022-10-26",
-      "sxx": 3,
-      "zdjgName": "赤峰市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 210,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市人民代表大会常务委员会工作条例_20221009.doc"
     },
     {
       "bbbs": "ff808181844232f701853f3818c40bdd",
@@ -52597,7 +52618,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "赤峰市红山文化遗址群保护条例_20221026.doc"
     },
     {
       "bbbs": "ff808181844230ec01853f3715672ee8",
@@ -52612,7 +52636,64 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "赤峰市禁牧休牧和草畜平衡条例_20221026.doc"
+    },
+    {
+      "bbbs": "ff808181844230ec01853f2cc8ee2eb8",
+      "title": "赤峰市文明行为促进条例",
+      "gbrq": "2022-10-26",
+      "sxrq": "2022-11-01",
+      "sxx": 3,
+      "zdjgName": "赤峰市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 210,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/内蒙古",
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "赤峰市文明行为促进条例_20221026.doc"
+    },
+    {
+      "bbbs": "ff808181844232f701853f38b00b0bde",
+      "title": "赤峰市农村牧区人居环境治理条例",
+      "gbrq": "2022-10-26",
+      "sxrq": "2022-10-26",
+      "sxx": 3,
+      "zdjgName": "赤峰市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 210,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/内蒙古",
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "赤峰市农村牧区人居环境治理条例_20221026.doc"
+    },
+    {
+      "bbbs": "ff808181844230ec01853f3421e62edd",
+      "title": "赤峰市地下水保护条例",
+      "gbrq": "2022-10-26",
+      "sxrq": "2022-10-26",
+      "sxx": 3,
+      "zdjgName": "赤峰市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 210,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/内蒙古",
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181842c261c01853f441fe14a85",
@@ -52627,7 +52708,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "乌兰察布市岱海黄旗海保护条例_20221114.docx"
     },
     {
       "bbbs": "ff808181842c261c01853f3fa8154a7c",
@@ -52642,7 +52726,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "乌兰察布市物业管理条例_20221114.doc"
     },
     {
       "bbbs": "ff808181844230ec01853f4ef75e2f89",
@@ -52657,7 +52744,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区河湖保护和管理条例_20221123.doc"
     },
     {
       "bbbs": "ff808181844232f701853f4894d00c65",
@@ -52672,7 +52762,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区革命文物保护利用条例_20221123.doc"
     },
     {
       "bbbs": "ff808181844230ec0185420bb137323a",
@@ -52687,7 +52780,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区邮政条例_20221123.doc"
     },
     {
       "bbbs": "ff808181842c261c01854205e9a14d0e",
@@ -52702,7 +52798,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区科学技术协会条例_20221123.doc"
     },
     {
       "bbbs": "ff808181844230ec0185420aa4713230",
@@ -52717,7 +52816,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区电力设施保护条例_20221123.doc"
     },
     {
       "bbbs": "ff808181844232f7018541f6ac170ee1",
@@ -52732,7 +52834,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区安全生产条例_20221123.docx"
     },
     {
       "bbbs": "ff808181844230ec0185420b402a3231",
@@ -52747,7 +52852,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区城市房地产开发经营管理条例_20221123.doc"
     },
     {
       "bbbs": "ff808181844232f701853f4b380f0c71",
@@ -52762,7 +52870,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区煤炭管理条例_20221123.doc"
     },
     {
       "bbbs": "ff808181844230ec018541f2142c31de",
@@ -52777,7 +52888,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区档案条例_20221123.doc"
     },
     {
       "bbbs": "ff808181842c261c018543d6ec5e4fa6",
@@ -52792,7 +52906,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市长城保护条例_20221125.docx"
     },
     {
       "bbbs": "ff808181844230ec018543e56f9034b9",
@@ -52807,7 +52924,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "巴彦淖尔市城市养犬管理条例_20221208.docx"
     },
     {
       "bbbs": "ff808181842c261c018543dae81d4fad",
@@ -52822,7 +52942,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "包头市物业管理条例_20221212.docx"
     },
     {
       "bbbs": "ff808181842c261c018542537f7d4df5",
@@ -52837,7 +52960,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "包头市五当召保护管理条例_20221212.docx"
     },
     {
       "bbbs": "ff808181844232f7018543e1e6d311ae",
@@ -52852,7 +52978,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "鄂尔多斯市不可移动文物保护条例_20221213.docx"
     },
     {
       "bbbs": "ff808181842c261c018543dea2aa4fb8",
@@ -52867,7 +52996,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "鄂尔多斯市黄河河道管理条例_20221213.docx"
     },
     {
       "bbbs": "ff80818185e7f9390186008b29d62d86",
@@ -52882,7 +53014,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区家庭教育促进条例_20221227.docx"
     },
     {
       "bbbs": "ff80818185e7f9390186009256412e09",
@@ -52897,7 +53032,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区实施《中华人民共和国土地管理法》办法_20221227.doc"
     },
     {
       "bbbs": "ff80818185e7f939018600a41e2a2f68",
@@ -52912,7 +53050,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市电动自行车消防安全管理条例_20221228.doc"
     },
     {
       "bbbs": "ff80818185e7f9390186009e09b32ec0",
@@ -52927,7 +53068,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市接诉即办工作条例_20221228.doc"
     },
     {
       "bbbs": "ff80818185e7f7ab018600bdc3061028",
@@ -52942,37 +53086,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
-    },
-    {
-      "bbbs": "ff80818185e7f939018600b9e4f0319e",
-      "title": "呼伦贝尔市乡村人居环境建设管理条例",
-      "gbrq": "2023-01-03",
-      "sxrq": "2023-05-01",
-      "sxx": 3,
-      "zdjgName": "呼伦贝尔市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 210,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
-    },
-    {
-      "bbbs": "ff80818185e7f939018600ada2783030",
-      "title": "包头市地名管理条例",
-      "gbrq": "2023-01-03",
-      "sxrq": "2023-01-03",
-      "sxx": 3,
-      "zdjgName": "包头市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 210,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "通辽市沙化土地治理条例_20221230.docx"
     },
     {
       "bbbs": "ff80818185e7f7ab018600ac182a0e61",
@@ -52987,7 +53104,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "包头市科学技术普及条例_20230103.doc"
     },
     {
       "bbbs": "ff80818185e7f7ab018600ac18400e64",
@@ -53002,7 +53122,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "包头市未成年人保护条例_20230103.doc"
     },
     {
       "bbbs": "ff80818185e7f7ab018600ac18210e60",
@@ -53017,7 +53140,46 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "包头市城市管理行政执法条例_20230103.doc"
+    },
+    {
+      "bbbs": "ff80818185e7f939018600b9e4f0319e",
+      "title": "呼伦贝尔市乡村人居环境建设管理条例",
+      "gbrq": "2023-01-03",
+      "sxrq": "2023-05-01",
+      "sxx": 3,
+      "zdjgName": "呼伦贝尔市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 210,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/内蒙古",
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼伦贝尔市乡村人居环境建设管理条例_20230103.docx"
+    },
+    {
+      "bbbs": "ff80818185e7f939018600ada2783030",
+      "title": "包头市地名管理条例",
+      "gbrq": "2023-01-03",
+      "sxrq": "2023-01-03",
+      "sxx": 3,
+      "zdjgName": "包头市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 210,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/内蒙古",
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "包头市地名管理条例_20230103.doc"
     },
     {
       "bbbs": "ff80818187aa33300187c065728c629a",
@@ -53032,7 +53194,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "乌海市节约用水条例_20230406.docx"
     },
     {
       "bbbs": "ff8081818793d8520187bca0d64652a9",
@@ -53047,7 +53212,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市大黑河郊野公园生态保护条例_20230407.doc"
     },
     {
       "bbbs": "ff8081818793d8520187bc9bbbe25258",
@@ -53062,7 +53230,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市人民代表大会议事规则_20230407.docx"
     },
     {
       "bbbs": "ff8081818793dad60187c05ff71c1ed9",
@@ -53077,7 +53248,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "巴彦淖尔市河套灌区水利工程保护条例_20230410.doc"
     },
     {
       "bbbs": "ff8081818793dad60187bcad300c10d0",
@@ -53092,7 +53266,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "鄂尔多斯市天然气开发生态环境保护条例_20230418.docx"
     },
     {
       "bbbs": "ff80818188c8b06b018923ab464a274b",
@@ -53107,7 +53284,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市街道办事处工作条例_20230607.docx"
     },
     {
       "bbbs": "ff80818188d322d5018923b498f4324a",
@@ -53122,7 +53302,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "赤峰市电动车管理条例_20230609.docx"
     },
     {
       "bbbs": "ff80818188c8adb8018923c1511a2790",
@@ -53137,7 +53320,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "乌海市工业用地土壤污染防治条例_20230612.docx"
     },
     {
       "bbbs": "ff80818188c8adb8018923c6d9c927df",
@@ -53152,7 +53338,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "鄂尔多斯市养犬管理条例_20230613.doc"
     },
     {
       "bbbs": "ff80818189b5c3300189fc57ba092640",
@@ -53167,7 +53356,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区全方位建设模范自治区促进条例_20230731.docx"
     },
     {
       "bbbs": "ff80818189b5beeb0189fcdedb634478",
@@ -53182,7 +53374,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区建设国家重要农畜产品生产基地促进条例_20230731.docx"
     },
     {
       "bbbs": "ff80818189b5c3300189fce984a92860",
@@ -53197,7 +53392,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区建设国家向北开放重要桥头堡促进条例_20230731.docx"
     },
     {
       "bbbs": "ff80818189b5c3300189fc68a706269a",
@@ -53212,7 +53410,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区建设我国北方重要生态安全屏障促进条例_20230731.docx"
     },
     {
       "bbbs": "ff80818189b5beeb0189fc7f7155428f",
@@ -53227,7 +53428,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区筑牢祖国北疆安全稳定屏障促进条例_20230731.docx"
     },
     {
       "bbbs": "ff80818189b5c3300189fcdb7c792825",
@@ -53242,7 +53446,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区建设国家重要能源和战略资源基地促进条例_20230731.docx"
     },
     {
       "bbbs": "ff8081818a1cb709018a45a681865373",
@@ -53257,7 +53464,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区人民代表大会常务委员会盟工作委员会工作条例_20230731.docx"
     },
     {
       "bbbs": "ff8081818a1cb709018a45a467c95326",
@@ -53272,7 +53482,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区人民代表大会常务委员会讨论决定重大事项的规定_20230731.docx"
     },
     {
       "bbbs": "ff8081818a1cb709018a45a367955318",
@@ -53287,7 +53500,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区人民代表大会代表议案处理办法_20230731.docx"
     },
     {
       "bbbs": "ff8081818a1cb709018a45a1fa41530b",
@@ -53302,7 +53518,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区人民代表大会常务委员会议事规则_20230731.docx"
     },
     {
       "bbbs": "ff8081818a1cb546018a641243e42e3d",
@@ -53317,7 +53536,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "通辽市移风易俗条例_20230803.docx"
     },
     {
       "bbbs": "ff8081818a22132f018a45b6e0d3442a",
@@ -53332,7 +53554,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市住宅小区物业管理条例_20230803.docx"
     },
     {
       "bbbs": "ff8081818a1cb709018a45c8f2b55773",
@@ -53347,7 +53572,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼伦贝尔市海拉尔国家森林公园樟子松保护条例_20230807.docx"
     },
     {
       "bbbs": "ff8081818a22132f018a45bd49cc4500",
@@ -53362,7 +53590,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "包头市禁牧休牧条例_20230807.docx"
     },
     {
       "bbbs": "ff8081818a1cb709018a45d0bab258a7",
@@ -53377,7 +53608,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818b287dfc018b50e301d94b58",
@@ -53392,7 +53626,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区就业促进条例_20230927.docx"
     },
     {
       "bbbs": "ff8081818b2884d0018b50d745121d92",
@@ -53407,7 +53644,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区实施《中华人民共和国人民防空法》办法_20230927.docx"
     },
     {
       "bbbs": "ff8081818b288414018b50bf9bf977e4",
@@ -53422,7 +53662,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区专利促进与保护条例_20230927.docx"
     },
     {
       "bbbs": "ff8081818b287dfc018b50c5656d4ad1",
@@ -53437,7 +53680,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区农用薄膜污染防治条例_20230927.docx"
     },
     {
       "bbbs": "ff8081818b287dfc018b50efcfc94b9b",
@@ -53452,7 +53698,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区人民代表大会代表建议、批评和意见处理办法_20230927.docx"
     },
     {
       "bbbs": "ff8081818b287dfc018b511d32204ca2",
@@ -53467,7 +53716,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "巴彦淖尔市乌梁素海流域生态保护条例_20231007.docx"
     },
     {
       "bbbs": "ff8081818b2884d0018b5105eae01e57",
@@ -53482,7 +53734,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "赤峰市城镇供热条例_20231007.docx"
     },
     {
       "bbbs": "ff8081818b287dfc018b5110c76f4c5f",
@@ -53497,7 +53752,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "鄂尔多斯市水资源管理条例_20231009.docx"
     },
     {
       "bbbs": "ff8081818c24e05b018cae4c184c24cb",
@@ -53512,7 +53770,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区食品小作坊小餐饮店小食杂店和食品摊贩管理条例_20231130.docx"
     },
     {
       "bbbs": "ff8081818c24df58018cae274c8475a4",
@@ -53527,7 +53788,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区促进边境地区高质量发展条例_20231130.docx"
     },
     {
       "bbbs": "ff8081818c24e05b018cae178e962223",
@@ -53542,7 +53806,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区奶业高质量发展促进条例_20231130.docx"
     },
     {
       "bbbs": "ff8081818c24e05b018cae35a4a623b2",
@@ -53557,7 +53824,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区人才发展促进条例_20231130.docx"
     },
     {
       "bbbs": "ff8081818c24e05b018cae4362ff245c",
@@ -53572,7 +53842,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区肉业高质量发展促进条例_20231130.docx"
     },
     {
       "bbbs": "ff8081818c24da9e018cae5211ef1e86",
@@ -53587,7 +53860,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区旗县级人民代表大会议事规则_20231130.docx"
     },
     {
       "bbbs": "ff8081818c24e05b018cae548df62537",
@@ -53602,7 +53878,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区苏木、乡、民族乡、镇人民代表大会工作条例_20231130.docx"
     },
     {
       "bbbs": "ff8081818c24e05b018cae542f0f2523",
@@ -53617,7 +53896,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区旗县级人民代表大会常务委员会工作条例_20231130.docx"
     },
     {
       "bbbs": "ff8081818c24df58018cae534d8d7849",
@@ -53632,7 +53914,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "内蒙古自治区旗县级人民代表大会常务委员会议事规则_20231130.docx"
     },
     {
       "bbbs": "ff8081818c24da9e018caf3a10142526",
@@ -53647,7 +53932,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "通辽市城市供水条例_20231204.docx"
     },
     {
       "bbbs": "ff8081818c24e05b018caf345c332a9c",
@@ -53662,7 +53950,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "包头市再生水管理条例_20231205.docx"
     },
     {
       "bbbs": "ff8081818c24da9e018caf3de1c12563",
@@ -53677,7 +53968,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "鄂尔多斯市海绵城市建设管理条例_20231205.docx"
     },
     {
       "bbbs": "ff8081818c24da9e018caf2e23b12409",
@@ -53692,7 +53986,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市城市供热管理条例_20231213.docx"
     },
     {
       "bbbs": "ff8081818c24e05b018caf2c75ad2a35",
@@ -53707,7 +54004,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/内蒙古",
-      "my_cate": 14
+      "my_cate": 14,
+      "my_status": 200,
+      "my_time": "20250916T060855+0800",
+      "my_file": "呼和浩特市燃气管理条例_20231213.docx"
     },
     {
       "bbbs": "ff8081818d736ac1018d81ae3ea46bf7",
