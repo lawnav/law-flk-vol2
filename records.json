@@ -1,9 +1,9 @@
 {
-  "update": "20250915T212220+0800",
+  "update": "20250915T213957+0800",
   "duplicate": {},
   "stats": {
     "total": 6401,
-    "download": 400,
+    "download": 500,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -6580,204 +6580,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff8080816eea6bee016ef8bdf54a2f89",
-      "title": "天津市住房公积金管理条例",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 2,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "天津市住房公积金管理条例_20100925.doc"
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef8a3d4282ee8",
-      "title": "天津市计量管理条例",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 2,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "天津市计量管理条例_20100925.doc"
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef8b7309a2f46",
-      "title": "天津市实施《中华人民共和国工会法》办法",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 2,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "天津市实施《中华人民共和国工会法》办法_20100925.doc"
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef8b2a6b52f20",
-      "title": "天津市燃气管理条例",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 2,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "天津市燃气管理条例_20100925.doc"
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef89cfdc22ebc",
-      "title": "天津市公路管理条例",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 2,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "天津市公路管理条例_20100925.doc"
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef8b81a3e2f51",
-      "title": "天津市实施《中华人民共和国母婴保健法》办法",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 2,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "天津市实施《中华人民共和国母婴保健法》办法_20100925.doc"
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef89ecd662ec7",
-      "title": "天津市环境保护条例",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 2,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "天津市环境保护条例_20100925.doc"
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef8b5d89b2f3a",
-      "title": "天津市实施《中华人民共和国标准化法》办法",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 1,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "天津市实施《中华人民共和国标准化法》办法_20100925.doc"
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef8b4caba2f2f",
-      "title": "天津市社会办医机构管理条例",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 1,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "天津市社会办医机构管理条例_20100925.doc"
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef8bee06d2f94",
-      "title": "天津市宗教活动场所管理办法",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 1,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "天津市宗教活动场所管理办法_20100925.doc"
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef8a808832eff",
-      "title": "天津市农村集体经济承包合同管理条例",
-      "gbrq": "2010-09-25",
-      "sxrq": "2010-09-25",
-      "sxx": 1,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T211957+0800",
-      "my_file": "mobile"
-    },
-    {
       "bbbs": "ff8080816eea6bee016ef8990c302e9a",
       "title": "天津市城市道路管理条例",
       "gbrq": "2010-09-25",
@@ -7012,6 +6814,150 @@
       "my_file": "mobile"
     },
     {
+      "bbbs": "ff8080816eea6bee016ef8bdf54a2f89",
+      "title": "天津市住房公积金管理条例",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 2,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
+      "my_file": "天津市住房公积金管理条例_20100925.doc"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef8a3d4282ee8",
+      "title": "天津市计量管理条例",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 2,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
+      "my_file": "天津市计量管理条例_20100925.doc"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef8b7309a2f46",
+      "title": "天津市实施《中华人民共和国工会法》办法",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 2,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
+      "my_file": "天津市实施《中华人民共和国工会法》办法_20100925.doc"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef8b2a6b52f20",
+      "title": "天津市燃气管理条例",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 2,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
+      "my_file": "天津市燃气管理条例_20100925.doc"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef89cfdc22ebc",
+      "title": "天津市公路管理条例",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 2,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
+      "my_file": "天津市公路管理条例_20100925.doc"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef8b81a3e2f51",
+      "title": "天津市实施《中华人民共和国母婴保健法》办法",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 2,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
+      "my_file": "天津市实施《中华人民共和国母婴保健法》办法_20100925.doc"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef89ecd662ec7",
+      "title": "天津市环境保护条例",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 2,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
+      "my_file": "天津市环境保护条例_20100925.doc"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef8b5d89b2f3a",
+      "title": "天津市实施《中华人民共和国标准化法》办法",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 1,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
+      "my_file": "天津市实施《中华人民共和国标准化法》办法_20100925.doc"
+    },
+    {
       "bbbs": "ff8080816eea6bee016ef8a0b9642ed2",
       "title": "天津市基本菜田保护管理条例",
       "gbrq": "2010-09-25",
@@ -7027,6 +6973,60 @@
       "my_cate": 11,
       "my_status": 200,
       "my_time": "20250915T212042+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef8b4caba2f2f",
+      "title": "天津市社会办医机构管理条例",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 1,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
+      "my_file": "天津市社会办医机构管理条例_20100925.doc"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef8bee06d2f94",
+      "title": "天津市宗教活动场所管理办法",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 1,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
+      "my_file": "天津市宗教活动场所管理办法_20100925.doc"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef8a808832eff",
+      "title": "天津市农村集体经济承包合同管理条例",
+      "gbrq": "2010-09-25",
+      "sxrq": "2010-09-25",
+      "sxx": 1,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T211957+0800",
       "my_file": "mobile"
     },
     {
@@ -7222,7 +7222,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市控制吸烟条例_20120328.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef8ff415134c2",
@@ -7237,7 +7240,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市房屋安全使用管理条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef91ed5913717",
@@ -7252,7 +7258,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市实施《中华人民共和国反不正当竞争法》办法_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef8efc066334c",
@@ -7267,7 +7276,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市测绘管理条例_20120509.doc"
     },
     {
       "bbbs": "4028abcc61277793016127da9e0c1981",
@@ -7282,7 +7294,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市节约能源条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef93eb0ec37ae",
@@ -7297,7 +7312,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市消费者权益保护条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef8e9c609332c",
@@ -7312,7 +7330,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市殡葬管理条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef8f84b963469",
@@ -7327,7 +7348,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市城乡规划条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef9133bcb36b1",
@@ -7342,7 +7366,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市农业机械管理条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef9385146376a",
@@ -7357,7 +7384,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市市容和环境卫生管理条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef9454f5537c7",
@@ -7372,7 +7402,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市植物保护条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef934c01e3751",
@@ -7387,7 +7420,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市实施《中华人民共和国种子法》办法_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef93b3e29379c",
@@ -7402,7 +7438,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市土地管理条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef90cc4be3526",
@@ -7417,7 +7456,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市客运出租汽车管理条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef90ff1ac3609",
@@ -7432,7 +7474,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市矿产资源管理条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef902cf9334d5",
@@ -7447,7 +7492,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市供电用电条例_20120509.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef906036134ee",
@@ -7462,7 +7510,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127d039761008",
@@ -7477,7 +7528,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eea6bee016ef9187ac136cb",
@@ -7492,7 +7546,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eea6bee016ef8f526e83370",
@@ -7507,7 +7564,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127d10a7210b4",
@@ -7522,7 +7582,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161283e82327dff",
@@ -7537,7 +7600,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127c4a236057b",
@@ -7552,7 +7618,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc6127779301612838a2617819",
@@ -7567,7 +7636,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016128399ff27913",
@@ -7582,7 +7654,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127d78a741684",
@@ -7597,7 +7672,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市人体器官捐献条例_20121224.doc"
     },
     {
       "bbbs": "4028abcc61277793016127cf27610f09",
@@ -7612,7 +7690,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市无线电管理条例_20121224.doc"
     },
     {
       "bbbs": "4028abcc61277793016127c949570a27",
@@ -7627,7 +7708,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市建设工程施工安全管理条例_20130121.doc"
     },
     {
       "bbbs": "4028abcc61277793016127c635f10704",
@@ -7642,7 +7726,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市促进商业发展若干规定_20130723.doc"
     },
     {
       "bbbs": "4028abcc612777930161283ce7257c5e",
@@ -7657,7 +7744,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市科学技术普及条例_20130924.doc"
     },
     {
       "bbbs": "4028abcc61277793016127d78e4f1688",
@@ -7672,7 +7762,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市少数民族权益保障规定_20131107.doc"
     },
     {
       "bbbs": "4028abcc61277793016128389e367815",
@@ -7687,7 +7780,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市人民代表大会常务委员会人事任免办法_20131107.doc"
     },
     {
       "bbbs": "4028abcc61277793016127c7ac7b0885",
@@ -7702,7 +7798,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市实施《中华人民共和国水土保持法》办法_20131217.doc"
     },
     {
       "bbbs": "4028abcc61277793016127ccb4940d04",
@@ -7717,7 +7816,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市教育督导条例_20131217.doc"
     },
     {
       "bbbs": "4028abcc61277793016127cf1e6f0f01",
@@ -7732,7 +7834,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市绿化条例_20140122.doc"
     },
     {
       "bbbs": "4028abcc61277793016127daa5a71989",
@@ -7747,7 +7852,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市人民代表大会常务委员会关于批准划定永久性保护生态区域的决定_20140214.doc"
     },
     {
       "bbbs": "4028abcc61277793016128384d1877c6",
@@ -7762,7 +7870,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市制定地方性法规听证办法_20140523.doc"
     },
     {
       "bbbs": "4028abcc61277793016127c6249d06f1",
@@ -7777,7 +7888,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市促进中小企业发展条例_20140523.doc"
     },
     {
       "bbbs": "4028abcc6127779301612839758c78ee",
@@ -7792,7 +7906,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市房地产交易管理条例_20140523.doc"
     },
     {
       "bbbs": "4028abcc61277793016127c407a404ee",
@@ -7807,7 +7924,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市农民专业合作社促进条例_20140725.doc"
     },
     {
       "bbbs": "4028abcc61277793016127c7ed2c08cb",
@@ -7822,7 +7942,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213842+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127c419a604fe",
@@ -7837,7 +7960,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市医疗纠纷处置条例_20141128.doc"
     },
     {
       "bbbs": "4028abcc61277793016127c98bdc0a6a",
@@ -7852,7 +7978,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127da892e196d",
@@ -7867,7 +7996,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127c488e80560",
@@ -7882,7 +8014,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127d5fe6314ff",
@@ -7897,7 +8032,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127da9a0a197d",
@@ -7912,7 +8050,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161283d663c7ce0",
@@ -7927,7 +8068,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127d8c04717aa",
@@ -7942,7 +8086,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127d044021010",
@@ -7957,7 +8104,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127c4200e0506",
@@ -7972,7 +8122,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161283848d677c2",
@@ -7987,7 +8140,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213800+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127da96641979",
@@ -8002,7 +8158,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "中国（天津）自由贸易试验区条例_20151224.doc"
     },
     {
       "bbbs": "4028abcc61277793016127d8c3c517ae",
@@ -8017,7 +8176,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市实施宪法宣誓制度办法_20151224.doc"
     },
     {
       "bbbs": "4028abcc612777930161283ceb0b7c62",
@@ -8032,7 +8194,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213810+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127da7aa51961",
@@ -8047,7 +8212,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市水污染防治条例_20160129.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016efcd029713ba1",
@@ -8062,7 +8230,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市专利促进与保护条例_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016efcdd97223bbb",
@@ -8077,7 +8248,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津新技术产业园区管理条例_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016efcca493b3b8a",
@@ -8092,7 +8266,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市图书报刊管理条例_20160330.doc"
     },
     {
       "bbbs": "4028abcc61277793016127c484fd055c",
@@ -8107,7 +8284,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市沿海边防治安管理条例_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef96c648539a7",
@@ -8122,7 +8302,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津经济技术开发区条例_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef9886ace3a84",
@@ -8137,7 +8320,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市人才流动条例_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef980130e3a2d",
@@ -8152,7 +8338,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市就业促进条例_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef981c23c3a46",
@@ -8167,7 +8356,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市农药管理条例_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef975a5b839eb",
@@ -8182,7 +8374,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市畜牧条例_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef9715e8d39c7",
@@ -8197,7 +8392,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市城市供水用水条例_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef98dd1f03abd",
@@ -8212,7 +8410,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市实施《中华人民共和国台湾同胞投资保护法》办法_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016efce094133bd3",
@@ -8227,7 +8428,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市见义勇为人员奖励和保护条例_20160330.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef98c19b23a9d",
@@ -8242,7 +8446,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eea6bee016ef985858b3a62",
@@ -8257,7 +8464,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eea6bee016ef97de3583a12",
@@ -8272,7 +8482,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eea6bee016efcf74bed3c0c",
@@ -8287,7 +8500,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eea6bee016efcf8df953c24",
@@ -8302,7 +8518,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127c411f304f6",
@@ -8317,7 +8536,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eea6bee016efcf55f863bf3",
@@ -8332,52 +8554,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef80c3e4d2dd4",
-      "title": "天津市商品房管理条例",
-      "gbrq": "2016-07-29",
-      "sxrq": "2016-07-29",
-      "sxx": 3,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef815d0ed2e05",
-      "title": "天津市失业保险条例",
-      "gbrq": "2016-07-29",
-      "sxrq": "2016-07-29",
-      "sxx": 2,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11
-    },
-    {
-      "bbbs": "ff8080816eea6bee016ef807c7bf2dc2",
-      "title": "天津市盐业管理条例",
-      "gbrq": "2016-07-29",
-      "sxrq": "2016-07-29",
-      "sxx": 2,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eea6bee016ef81894de2e4b",
@@ -8392,7 +8572,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市道路交通安全管理若干规定_20160729.doc"
     },
     {
       "bbbs": "ff8080816eea6bee016ef810df6c2df3",
@@ -8407,7 +8590,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市海域使用管理条例_20160729.doc"
     },
     {
       "bbbs": "4028abcc61277793016127c53fb20615",
@@ -8422,7 +8608,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市不动产登记条例_20160729.doc"
     },
     {
       "bbbs": "4028abcc61277793016127dc31a81afc",
@@ -8437,7 +8626,64 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市湿地保护条例_20160729.doc"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef80c3e4d2dd4",
+      "title": "天津市商品房管理条例",
+      "gbrq": "2016-07-29",
+      "sxrq": "2016-07-29",
+      "sxx": 3,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef815d0ed2e05",
+      "title": "天津市失业保险条例",
+      "gbrq": "2016-07-29",
+      "sxrq": "2016-07-29",
+      "sxx": 2,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8080816eea6bee016ef807c7bf2dc2",
+      "title": "天津市盐业管理条例",
+      "gbrq": "2016-07-29",
+      "sxrq": "2016-07-29",
+      "sxx": 2,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161283e208f7d9d",
@@ -8452,7 +8698,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市地方性法规制定条例_20160928.doc"
     },
     {
       "bbbs": "4028abcc61277793016127d033cc1004",
@@ -8467,7 +8716,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市妇女权益保障条例_20161118.doc"
     },
     {
       "bbbs": "4028abcc61277793016128399b8e790f",
@@ -8482,7 +8734,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市安全生产条例_20161118.doc"
     },
     {
       "bbbs": "4028abcc612777930161283cf2f37c6a",
@@ -8497,7 +8752,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市实施《中华人民共和国农业技术推广法》办法_20161215.doc"
     },
     {
       "bbbs": "4028abcc61277793016127d2521411b7",
@@ -8512,7 +8770,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市医院安全秩序管理条例_20170109.doc"
     },
     {
       "bbbs": "4028abcc61277793016127ec87f72c41",
@@ -8527,7 +8788,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市人民代表大会关于农作物秸秆综合利用和露天禁烧的决定_20170120.doc"
     },
     {
       "bbbs": "4028abcc61277793016127ec83882c3c",
@@ -8542,7 +8806,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213830+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161288761f53ec9",
@@ -8557,7 +8824,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市实施《中华人民共和国台湾同胞投资保护法》办法_20170322.doc"
     },
     {
       "bbbs": "4028abcc612777930161288d6d4b43d2",
@@ -8572,7 +8842,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市住房公积金管理条例_20170602.doc"
     },
     {
       "bbbs": "4028abcc612777930161288d4f1043b4",
@@ -8587,7 +8860,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市实施《中华人民共和国母婴保健法》办法_20170726.doc"
     },
     {
       "bbbs": "4028abcc612777930161282a94b86d7f",
@@ -8602,7 +8878,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市人工影响天气管理条例_20170726.doc"
     },
     {
       "bbbs": "4028abcc612777930161282618706895",
@@ -8617,7 +8896,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市促进科技成果转化条例_20170726.doc"
     },
     {
       "bbbs": "4028abcc612777930161282dbfd3710e",
@@ -8632,7 +8914,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "天津市人民代表大会常务委员会执法检查办法_20170927.docx"
     },
     {
       "bbbs": "4028abcc6127779301612820b50a625f",
@@ -8647,67 +8932,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
-    },
-    {
-      "bbbs": "4028abcc612777930161282f360d72a8",
-      "title": "天津市人民代表大会常务委员会关于禁止燃放烟花爆竹的决定",
-      "gbrq": "2017-11-28",
-      "sxrq": "2018-01-01",
-      "sxx": 3,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11
-    },
-    {
-      "bbbs": "2c90e5bb681ce128016835c4ef1908fa",
-      "title": "天津市见义勇为人员奖励和保护条例",
-      "gbrq": "2017-11-28",
-      "sxrq": "2018-01-01",
-      "sxx": 3,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11
-    },
-    {
-      "bbbs": "4028abcc612777930161282f2b2c729c",
-      "title": "天津市公共电信基础设施建设和保护条例",
-      "gbrq": "2017-11-28",
-      "sxrq": "2018-01-01",
-      "sxx": 3,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11
-    },
-    {
-      "bbbs": "4028abcc612777930161282da5a270ef",
-      "title": "天津市禁毒条例",
-      "gbrq": "2017-11-28",
-      "sxrq": "2018-01-01",
-      "sxx": 3,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161282f333372a4",
@@ -8783,6 +9011,78 @@
       "score": 0.0,
       "my_dir": "地方法规/天津",
       "my_cate": 11
+    },
+    {
+      "bbbs": "4028abcc612777930161282f360d72a8",
+      "title": "天津市人民代表大会常务委员会关于禁止燃放烟花爆竹的决定",
+      "gbrq": "2017-11-28",
+      "sxrq": "2018-01-01",
+      "sxx": 3,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "2c90e5bb681ce128016835c4ef1908fa",
+      "title": "天津市见义勇为人员奖励和保护条例",
+      "gbrq": "2017-11-28",
+      "sxrq": "2018-01-01",
+      "sxx": 3,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "4028abcc612777930161282da5a270ef",
+      "title": "天津市禁毒条例",
+      "gbrq": "2017-11-28",
+      "sxrq": "2018-01-01",
+      "sxx": 3,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "4028abcc612777930161282f2b2c729c",
+      "title": "天津市公共电信基础设施建设和保护条例",
+      "gbrq": "2017-11-28",
+      "sxrq": "2018-01-01",
+      "sxx": 3,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T213739+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b9681cdbbd016835beb3b10891",
