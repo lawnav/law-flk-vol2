@@ -1,9 +1,9 @@
 {
-  "update": "20250915T221310+0800",
+  "update": "20250915T223353+0800",
   "duplicate": {},
   "stats": {
     "total": 6401,
-    "download": 700,
+    "download": 800,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -10936,8 +10936,8 @@
       "my_file": "天津市学前教育条例_20200925.doc"
     },
     {
-      "bbbs": "ff808081752b7d4301753091910c0391",
-      "title": "天津市水污染防治条例",
+      "bbbs": "ff80808175265dd4017530a559fc08f6",
+      "title": "天津市防震减灾条例",
       "gbrq": "2020-09-25",
       "sxrq": "2020-09-25",
       "sxx": 3,
@@ -10954,8 +10954,8 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff80808175265dd4017530a559fc08f6",
-      "title": "天津市防震减灾条例",
+      "bbbs": "ff808081752b7d4301753091910c0391",
+      "title": "天津市水污染防治条例",
       "gbrq": "2020-09-25",
       "sxrq": "2020-09-25",
       "sxx": 3,
@@ -11170,42 +11170,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff8081817b149d62017b2a435dcf263f",
-      "title": "天津市节约用水条例",
-      "gbrq": "2021-07-30",
-      "sxrq": "2021-07-30",
-      "sxx": 3,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T221044+0800",
-      "my_file": "天津市节约用水条例_20210730.doc"
-    },
-    {
-      "bbbs": "ff8081817b149f83017b2a4633a0256a",
-      "title": "天津市城市供水用水条例",
-      "gbrq": "2021-07-30",
-      "sxrq": "2021-07-30",
-      "sxx": 3,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T221044+0800",
-      "my_file": "天津市城市供水用水条例_20210730.doc"
-    },
-    {
       "bbbs": "ff8081817b149f83017b2a4ecb842580",
       "title": "天津市动物防疫条例",
       "gbrq": "2021-07-30",
@@ -11294,6 +11258,42 @@
       "my_status": 200,
       "my_time": "20250915T221044+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817b149d62017b2a435dcf263f",
+      "title": "天津市节约用水条例",
+      "gbrq": "2021-07-30",
+      "sxrq": "2021-07-30",
+      "sxx": 3,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T221044+0800",
+      "my_file": "天津市节约用水条例_20210730.doc"
+    },
+    {
+      "bbbs": "ff8081817b149f83017b2a4633a0256a",
+      "title": "天津市城市供水用水条例",
+      "gbrq": "2021-07-30",
+      "sxrq": "2021-07-30",
+      "sxx": 3,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T221044+0800",
+      "my_file": "天津市城市供水用水条例_20210730.doc"
     },
     {
       "bbbs": "ff8081817c793497017c7c7d9e8f0369",
@@ -11494,8 +11494,8 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff8081817d7e735a017d8e60444d197f",
-      "title": "天津市科学技术普及条例",
+      "bbbs": "ff8081817d7e7116017d8e6aa46c1afc",
+      "title": "天津市红色资源保护与传承条例",
       "gbrq": "2021-11-29",
       "sxrq": "2021-11-29",
       "sxx": 3,
@@ -11512,8 +11512,8 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff8081817d7e7116017d8e6aa46c1afc",
-      "title": "天津市红色资源保护与传承条例",
+      "bbbs": "ff8081817d7e735a017d8e60444d197f",
+      "title": "天津市科学技术普及条例",
       "gbrq": "2021-11-29",
       "sxrq": "2021-11-29",
       "sxx": 3,
@@ -11656,10 +11656,10 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff80818182257d3201829023a7455dc5",
-      "title": "天津市区人民代表大会常务委员会街道工作委员会工作条例",
+      "bbbs": "ff80818182257d32018290930ba55edf",
+      "title": "天津市旅游促进条例",
       "gbrq": "2022-07-27",
-      "sxrq": "2022-07-27",
+      "sxrq": "2022-09-01",
       "sxx": 3,
       "zdjgName": "天津市人民代表大会常务委员会",
       "xgzlHighLight": null,
@@ -11692,10 +11692,28 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff80818182257d32018290930ba55edf",
-      "title": "天津市旅游促进条例",
+      "bbbs": "ff80818182257d3201829023a7455dc5",
+      "title": "天津市区人民代表大会常务委员会街道工作委员会工作条例",
       "gbrq": "2022-07-27",
-      "sxrq": "2022-09-01",
+      "sxrq": "2022-07-27",
+      "sxx": 3,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T221044+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081818364d9f60183cb24d8040d59",
+      "title": "天津市生态文明教育促进条例",
+      "gbrq": "2022-09-27",
+      "sxrq": "2022-11-01",
       "sxx": 3,
       "zdjgName": "天津市人民代表大会常务委员会",
       "xgzlHighLight": null,
@@ -11798,24 +11816,6 @@
       "my_status": 200,
       "my_time": "20250915T221044+0800",
       "my_file": "中国（天津）自由贸易试验区条例_20220927.doc"
-    },
-    {
-      "bbbs": "ff8081818364d9f60183cb24d8040d59",
-      "title": "天津市生态文明教育促进条例",
-      "gbrq": "2022-09-27",
-      "sxrq": "2022-11-01",
-      "sxx": 3,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T221044+0800",
-      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181857bbb76018585ca3aa415ee",
@@ -12196,24 +12196,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff80818192289187019275c78834096c",
-      "title": "天津市实施《中华人民共和国工会法》办法",
-      "gbrq": "2024-07-30",
-      "sxrq": "2024-09-01",
-      "sxx": 3,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11,
-      "my_status": 200,
-      "my_time": "20250915T221044+0800",
-      "my_file": "天津市实施《中华人民共和国工会法》办法_20240730.docx"
-    },
-    {
       "bbbs": "ff80818190734f1d019111fff831348a",
       "title": "天津市气候资源保护和开发利用条例",
       "gbrq": "2024-07-30",
@@ -12230,6 +12212,24 @@
       "my_status": 200,
       "my_time": "20250915T221044+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff80818192289187019275c78834096c",
+      "title": "天津市实施《中华人民共和国工会法》办法",
+      "gbrq": "2024-07-30",
+      "sxrq": "2024-09-01",
+      "sxx": 3,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T221044+0800",
+      "my_file": "天津市实施《中华人民共和国工会法》办法_20240730.docx"
     },
     {
       "bbbs": "ff808181907351a5019111fc108e1bc2",
@@ -12622,7 +12622,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于天津市契税适用税率和减征免征办法的决定_20210526.doc"
     },
     {
       "bbbs": "ff8081817b149f83017b2a403bb42545",
@@ -12637,7 +12640,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于授权市人民政府为保障冬奥会举办规定临时性行政措施的决定_20210730.doc"
     },
     {
       "bbbs": "ff8081817fd98341017fe98489ae6305",
@@ -12652,7 +12658,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于促进和保障构建“津城”“滨城”双城发展格局的决定_20220330.doc"
     },
     {
       "bbbs": "ff8081817fd98625017fe980ce3968c7",
@@ -12667,7 +12676,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于促进和保障制造业立市推动高质量发展的决定_20220330.doc"
     },
     {
       "bbbs": "ff80818182258144018290adb97612b1",
@@ -12682,7 +12694,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于加强城市重点区域天际线管控的决定_20220727.doc"
     },
     {
       "bbbs": "ff808181857bc62f018585d11310158d",
@@ -12697,7 +12712,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于京津冀协同推进大运河文化保护传承利用的决定_20221201.docx"
     },
     {
       "bbbs": "ff808181857bbb7601858602b0aa17c0",
@@ -12712,7 +12730,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于加强新时代检察机关法律监督工作的决定_20221201.docx"
     },
     {
       "bbbs": "ff80818188321c0a018875e30bfd65c0",
@@ -12727,7 +12748,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于促进和保障国际消费中心城市建设的决定_20230529.docx"
     },
     {
       "bbbs": "ff8081818996dba40189aad5f3bb5a4c",
@@ -12742,7 +12766,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于加强生态保护红线管理的决定_20230727.docx"
     },
     {
       "bbbs": "ff8081818c24df58018c6625d7725a6b",
@@ -12757,7 +12784,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于推进京津冀协同创新共同体建设的决定_20231129.docx"
     },
     {
       "bbbs": "ff808181927f12760193d8e4ef975871",
@@ -12772,7 +12802,10 @@
       "flfgCodeId": 305,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于加强经济工作监督的决定_20241203.docx"
     },
     {
       "bbbs": "ff8081818a21e6c3018b1e1fa7c6335c",
@@ -12787,7 +12820,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于修改《天津市实施〈中华人民共和国城市居民委员会组织法〉办法》等十部地方性法规的决定_20190530.docx"
     },
     {
       "bbbs": "ff8081818454cda0018455341c85007e",
@@ -12802,7 +12838,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817d99a651017e0e26fe003a00",
@@ -12817,7 +12856,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817af243ed017b2e9736b11494",
@@ -12832,7 +12874,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817d99a43a017dd65b0d4f2a30",
@@ -12847,22 +12892,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
-    },
-    {
-      "bbbs": "ff8081817d99a651017dd6606699293d",
-      "title": "天津市人民代表大会常务委员会关于修改《天津市科学技术普及条例》的决定",
-      "gbrq": "2021-11-29",
-      "sxrq": "2021-11-29",
-      "sxx": null,
-      "zdjgName": "天津市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "修改、废止的决定",
-      "zdjgCodeId": 180,
-      "flfgCodeId": 310,
-      "score": 0.0,
-      "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817d99a39f017dd6b371582a74",
@@ -12877,7 +12910,28 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817d99a651017dd6606699293d",
+      "title": "天津市人民代表大会常务委员会关于修改《天津市科学技术普及条例》的决定",
+      "gbrq": "2021-11-29",
+      "sxrq": "2021-11-29",
+      "sxx": null,
+      "zdjgName": "天津市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "修改、废止的决定",
+      "zdjgCodeId": 180,
+      "flfgCodeId": 310,
+      "score": 0.0,
+      "my_dir": "地方法规/天津",
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817d99a39f017dae795d230d0d",
@@ -12892,7 +12946,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2f5a5786b5d84bf9b5b6c3e04eff3a80",
@@ -12907,7 +12964,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "05f30a698b8f446aa77b9fd4c647e96f",
@@ -12922,7 +12982,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "21a7773cdb2846ef9a1ab02921f98978",
@@ -12937,7 +13000,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "8e138844e2bf4bfc91147ad52d0d4911",
@@ -12952,7 +13018,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2e4cbdaf41844d87aacf367895f044c4",
@@ -12967,7 +13036,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "f93557064284414188633d722ad0c67b",
@@ -12982,7 +13054,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "14f0b8b4e826498abef1132eebe4c1e5",
@@ -12997,7 +13072,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223205+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "1844ca926a974e918963042bc25f437e",
@@ -13012,7 +13090,10 @@
       "flfgCodeId": 310,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市人民代表大会常务委员会关于废止《天津市商品交易市场管理若干规定》等三部地方性法规的决定_20241203.docx"
     },
     {
       "bbbs": "4028abcc6127779301612882d7303ba8",
@@ -13027,7 +13108,10 @@
       "flfgCodeId": 9999,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "津常备〔2017〕16号--天津市野生动物保护条例_20171128.doc"
     },
     {
       "bbbs": "4028abcc6127779301612882d3483ba4",
@@ -13042,7 +13126,10 @@
       "flfgCodeId": 9999,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "津常备〔2017〕16号--天津市绿化条例_20171128.doc"
     },
     {
       "bbbs": "4028abcc6127779301612882c52f3b9c",
@@ -13057,7 +13144,10 @@
       "flfgCodeId": 9999,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "津常备〔2017〕16号--天津市道路交通安全管理若干规定_20171128.doc"
     },
     {
       "bbbs": "4028abcc6127779301612882ce983ba0",
@@ -13072,7 +13162,10 @@
       "flfgCodeId": 9999,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "津常备〔2017〕16号--天津市环境保护条例_20171128.doc"
     },
     {
       "bbbs": "4028abcc612777930161282d72cb70b4",
@@ -13087,7 +13180,10 @@
       "flfgCodeId": 9999,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市见义勇为人员奖励和保护条例_20171128.doc"
     },
     {
       "bbbs": "4028abcc612777930161282dd3dc7128",
@@ -13102,7 +13198,10 @@
       "flfgCodeId": 9999,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "天津市公路管理条例_20171222.doc"
     },
     {
       "bbbs": "2c90e5ba64fa820601653764d86e01fc",
@@ -13117,7 +13216,10 @@
       "flfgCodeId": 9999,
       "score": 0.0,
       "my_dir": "地方法规/天津",
-      "my_cate": 11
+      "my_cate": 11,
+      "my_status": 200,
+      "my_time": "20250915T223230+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817f20f69f017f25d2fac25e90",
@@ -13132,7 +13234,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省城镇公共卫生管理暂行条例_19851101.docx"
     },
     {
       "bbbs": "ff8081817f20f69f017f25bcf35a59f3",
@@ -13147,7 +13252,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省森林资源管理条例_19880319.docx"
     },
     {
       "bbbs": "ff8081817f0c5d3c017f2042a76058da",
@@ -13162,7 +13270,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省计量监督条例_19881124.docx"
     },
     {
       "bbbs": "4028abcc61277793016127fd29033e2f",
@@ -13177,7 +13288,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省实施《中华人民共和国集会游行示威法》办法_19900415.docx"
     },
     {
       "bbbs": "ff8081817f0c5bba017f203cd90b02c2",
@@ -13192,7 +13306,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817d283644017d4572db1d5e3d",
@@ -13207,7 +13324,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cdd483f017ce49a9cb22622",
@@ -13222,7 +13342,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5f24f0173315dc4123c9d",
@@ -13237,7 +13360,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc6127779301612862db3821e6",
@@ -13252,7 +13378,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cdd480b017ce49d7e792072",
@@ -13267,7 +13396,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161281c9f015dcb",
@@ -13282,7 +13414,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127f0c42d3088",
@@ -13297,7 +13432,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cdd4739017ce4aa7c552176",
@@ -13312,22 +13450,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "4028abcc61277793016127fd955a3e9b",
-      "title": "河北省实施《中华人民共和国教师法》办法",
-      "gbrq": "1995-12-26",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817d2837d2017d2d462e47104e",
@@ -13342,7 +13468,28 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "4028abcc61277793016127fd955a3e9b",
+      "title": "河北省实施《中华人民共和国教师法》办法",
+      "gbrq": "1995-12-26",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817d283474017d456bdb20637b",
@@ -13357,7 +13504,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127ff2228405b",
@@ -13372,7 +13522,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cdd483f017ce4be4c62288d",
@@ -13387,7 +13540,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省档案工作条例_19970629.docx"
     },
     {
       "bbbs": "ff8081817cdd483f017ce4b4a61127fa",
@@ -13402,7 +13558,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省母婴保健条例_19970629.docx"
     },
     {
       "bbbs": "4028abcc612777930161287c1a7037f9",
@@ -13417,7 +13576,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "石家庄市行政执法条例_19970903.docx"
     },
     {
       "bbbs": "4028abcc612777930161287c0f9e37f5",
@@ -13432,7 +13594,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "石家庄市流动人口计划生育管理规定_19971025.docx"
     },
     {
       "bbbs": "4028abcc612777930161281b06285c18",
@@ -13447,7 +13612,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "唐山市档案工作管理办法_19981118.docx"
     },
     {
       "bbbs": "4028abcc61277793016127f49be334b8",
@@ -13462,7 +13630,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省爱国卫生条例_19981226.docx"
     },
     {
       "bbbs": "ff808181907351a5019107be1bb47b8d",
@@ -13477,7 +13648,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省著名商标认定和保护条例_19990402.docx"
     },
     {
       "bbbs": "4028abcc612777930161281d26ea5e60",
@@ -13492,7 +13666,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "石家庄市科学技术奖励条例_19991129.docx"
     },
     {
       "bbbs": "ff8081817d283644017d362242c433c9",
@@ -13507,7 +13684,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省计量监督管理条例_20000330.docx"
     },
     {
       "bbbs": "ff8081817d283644017d459874fd6054",
@@ -13522,7 +13702,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "邯郸市城市供水用水管理条例_20000412.docx"
     },
     {
       "bbbs": "4028abcc61277793016128008c2241e6",
@@ -13537,7 +13720,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省集体合同条例_20000525.docx"
     },
     {
       "bbbs": "ff8081817d283644017d3616a952339e",
@@ -13552,7 +13738,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省实施《中华人民共和国防洪法》办法_20000927.docx"
     },
     {
       "bbbs": "ff8081817d283474017d35f937e337c0",
@@ -13567,7 +13756,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省实施《中华人民共和国森林法》办法_20000927.docx"
     },
     {
       "bbbs": "ff8081817f26b5f7017f2ad528f74854",
@@ -13582,7 +13774,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "邯郸市客运出租汽车管理条例_20010110.docx"
     },
     {
       "bbbs": "4028abcc612777930161281ee5366048",
@@ -13597,7 +13792,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc6127779301612859a6311909",
@@ -13612,7 +13810,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817f26b5ba017f2ea7599e5922",
@@ -13627,7 +13828,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc6127779301612807309948f9",
@@ -13642,7 +13846,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161286931df27d0",
@@ -13657,7 +13864,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817f3b9178017f49702fdc7892",
@@ -13672,7 +13882,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817cdd483f017ce4f6bda72bb9",
@@ -13687,7 +13900,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f5c197ae6459b",
@@ -13702,7 +13918,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817d283474017d457f361c652f",
@@ -13717,7 +13936,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc6127779301612859ab3f190d",
@@ -13732,7 +13954,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc6127779301612800964941f3",
@@ -13747,7 +13972,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127f4b1e434d0",
@@ -13762,7 +13990,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127f1186b30de",
@@ -13777,7 +14008,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161280f6c254fd4",
@@ -13792,7 +14026,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省重点建设项目稽察条例_20021125.docx"
     },
     {
       "bbbs": "ff8081817f26b54a017f2ec7a1540ac1",
@@ -13807,7 +14044,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省母婴保健条例_20021125.docx"
     },
     {
       "bbbs": "ff8081817f26b5ba017f2adfc3b14618",
@@ -13822,22 +14062,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
-    },
-    {
-      "bbbs": "4028abcc612777930161280f704e4fd8",
-      "title": "河北省渔业船舶管理条例",
-      "gbrq": "2003-07-18",
-      "sxrq": null,
-      "sxx": 2,
-      "zdjgName": "河北省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 190,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省食盐加碘消除碘缺乏危害监督管理条例_20021125.docx"
     },
     {
       "bbbs": "4028abcc612777930161280f744b4fdc",
@@ -13852,7 +14080,28 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省促进科技成果转化条例_20030718.docx"
+    },
+    {
+      "bbbs": "4028abcc612777930161280f704e4fd8",
+      "title": "河北省渔业船舶管理条例",
+      "gbrq": "2003-07-18",
+      "sxrq": null,
+      "sxx": 2,
+      "zdjgName": "河北省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 190,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/河北",
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223214+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181927f127601966bda2b463074",
@@ -13867,7 +14116,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "唐山市地方公路条例_20040329.docx"
     },
     {
       "bbbs": "4028abcc612777930161280091dd41ee",
@@ -13882,7 +14134,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省预防和制止家庭暴力条例_20040722.docx"
     },
     {
       "bbbs": "ff8081817f3b9178017f44bc9b5b61ff",
@@ -13897,7 +14152,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "邯郸市城市供水用水管理条例_20040726.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f64e53fba49e6",
@@ -13912,7 +14170,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "唐山市人民代表大会常务委员会关于废止地方性法规中若干行政许可规定的决定_20041009.docx"
     },
     {
       "bbbs": "4028abcc61277793016127f4aea534cc",
@@ -13927,7 +14188,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省统计条例_20041127.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f64c4cd034974",
@@ -13942,7 +14206,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "唐山市人民代表大会常务委员会关于第二批废止地方性法规中若干行政许可规定的决定+_20041201.docx"
     },
     {
       "bbbs": "4028abcc6127779301612853ae761345",
@@ -13957,7 +14224,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省实施《中华人民共和国气象法》办法_20050109.docx"
     },
     {
       "bbbs": "4028abcc6127779301612852ab941259",
@@ -13972,7 +14242,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "河北省实施《中华人民共和国招标投标法》办法_20050109.docx"
     },
     {
       "bbbs": "4028abcc612777930161286102302025",
@@ -13987,7 +14260,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016128105ff350c2",
@@ -14002,7 +14278,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc612777930161286361cb226a",
@@ -14017,7 +14296,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817d7e735a017d940999b043de",
@@ -14032,7 +14314,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817f420ac8017f497441112939",
@@ -14047,7 +14332,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f64d495b449a9",
@@ -14062,7 +14350,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127fa1e773ae3",
@@ -14077,7 +14368,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080817321d5560173315ae9ac0c78",
@@ -14092,7 +14386,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "4028abcc61277793016127ee758c2e3c",
@@ -14107,7 +14404,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/河北",
-      "my_cate": 12
+      "my_cate": 12,
+      "my_status": 200,
+      "my_time": "20250915T223144+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818c24da9e018ccd8090060992",
