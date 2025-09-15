@@ -1,9 +1,9 @@
 {
-  "update": "20250916T021628+0800",
+  "update": "20250916T024404+0800",
   "duplicate": {},
   "stats": {
     "total": 6401,
-    "download": 1900,
+    "download": 2000,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -32680,96 +32680,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "4028abcc61277793016128704f3b2e68",
-      "title": "山西省涉及国家安全事项建设项目管理条例",
-      "gbrq": "2014-11-28",
-      "sxrq": null,
-      "sxx": -1,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T021416+0800",
-      "my_file": "山西省涉及国家安全事项建设项目管理条例_20141128.doc"
-    },
-    {
-      "bbbs": "4028abcc612777930161287638823422",
-      "title": "山西省安全技术防范条例",
-      "gbrq": "2014-11-28",
-      "sxrq": null,
-      "sxx": -1,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T021416+0800",
-      "my_file": "山西省安全技术防范条例_20141128.docx"
-    },
-    {
-      "bbbs": "4028abcc612777930161287135842f4b",
-      "title": "山西省爱国卫生管理条例",
-      "gbrq": "2014-11-28",
-      "sxrq": null,
-      "sxx": -1,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T021416+0800",
-      "my_file": "山西省爱国卫生管理条例_20141128.doc"
-    },
-    {
-      "bbbs": "4028abcc61277793016128731f6d3117",
-      "title": "山西省水路交通管理条例",
-      "gbrq": "2014-11-28",
-      "sxrq": null,
-      "sxx": -1,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T021416+0800",
-      "my_file": "山西省水路交通管理条例_20141128.doc"
-    },
-    {
-      "bbbs": "4028abcc6127779301612872f68830f0",
-      "title": "山西省公民献血条例",
-      "gbrq": "2014-11-28",
-      "sxrq": null,
-      "sxx": -1,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T021416+0800",
-      "my_file": "山西省公民献血条例_20141128.doc"
-    },
-    {
       "bbbs": "4028abcc6127779301612870e2082efa",
       "title": "大同市人民代表大会常务委员会监督工作条例",
       "gbrq": "2014-11-28",
@@ -32878,12 +32788,12 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "4028abcc612777930161287d79963897",
-      "title": "山西省农业投资条例",
+      "bbbs": "4028abcc6127779301612868f0f52796",
+      "title": "大同市城市绿化条例",
       "gbrq": "2014-11-28",
-      "sxrq": null,
+      "sxrq": "2014-11-28",
       "sxx": 1,
-      "zdjgName": "山西省人民代表大会常务委员会",
+      "zdjgName": "大同市人民代表大会常务委员会",
       "xgzlHighLight": null,
       "flxz": "地方法规",
       "zdjgCodeId": 200,
@@ -32896,12 +32806,12 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "4028abcc6127779301612868f0f52796",
-      "title": "大同市城市绿化条例",
+      "bbbs": "4028abcc612777930161287d79963897",
+      "title": "山西省农业投资条例",
       "gbrq": "2014-11-28",
-      "sxrq": "2014-11-28",
+      "sxrq": null,
       "sxx": 1,
-      "zdjgName": "大同市人民代表大会常务委员会",
+      "zdjgName": "山西省人民代表大会常务委员会",
       "xgzlHighLight": null,
       "flxz": "地方法规",
       "zdjgCodeId": 200,
@@ -32948,6 +32858,96 @@
       "my_status": 200,
       "my_time": "20250916T021416+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "4028abcc61277793016128704f3b2e68",
+      "title": "山西省涉及国家安全事项建设项目管理条例",
+      "gbrq": "2014-11-28",
+      "sxrq": null,
+      "sxx": -1,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T021416+0800",
+      "my_file": "山西省涉及国家安全事项建设项目管理条例_20141128.doc"
+    },
+    {
+      "bbbs": "4028abcc612777930161287638823422",
+      "title": "山西省安全技术防范条例",
+      "gbrq": "2014-11-28",
+      "sxrq": null,
+      "sxx": -1,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T021416+0800",
+      "my_file": "山西省安全技术防范条例_20141128.docx"
+    },
+    {
+      "bbbs": "4028abcc612777930161287135842f4b",
+      "title": "山西省爱国卫生管理条例",
+      "gbrq": "2014-11-28",
+      "sxrq": null,
+      "sxx": -1,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T021416+0800",
+      "my_file": "山西省爱国卫生管理条例_20141128.doc"
+    },
+    {
+      "bbbs": "4028abcc61277793016128731f6d3117",
+      "title": "山西省水路交通管理条例",
+      "gbrq": "2014-11-28",
+      "sxrq": null,
+      "sxx": -1,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T021416+0800",
+      "my_file": "山西省水路交通管理条例_20141128.doc"
+    },
+    {
+      "bbbs": "4028abcc6127779301612872f68830f0",
+      "title": "山西省公民献血条例",
+      "gbrq": "2014-11-28",
+      "sxrq": null,
+      "sxx": -1,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T021416+0800",
+      "my_file": "山西省公民献血条例_20141128.doc"
     },
     {
       "bbbs": "4028abcc612777930161280d9ffc4e13",
@@ -33292,24 +33292,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "4028abcc612777930161287519d13301",
-      "title": "山西省环境保护条例",
-      "gbrq": "2016-12-08",
-      "sxrq": null,
-      "sxx": -1,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13,
-      "my_status": 200,
-      "my_time": "20250916T021416+0800",
-      "my_file": "山西省环境保护条例_20161208.doc"
-    },
-    {
       "bbbs": "4028abcc6127779301612868eb962792",
       "title": "山西省安全生产条例",
       "gbrq": "2016-12-08",
@@ -33344,6 +33326,24 @@
       "my_status": 200,
       "my_time": "20250916T021416+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "4028abcc612777930161287519d13301",
+      "title": "山西省环境保护条例",
+      "gbrq": "2016-12-08",
+      "sxrq": null,
+      "sxx": -1,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T021416+0800",
+      "my_file": "山西省环境保护条例_20161208.doc"
     },
     {
       "bbbs": "4028abcc612777930161281bbd915ce7",
@@ -34222,7 +34222,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "太原市大气污染防治条例_20180330.doc"
     },
     {
       "bbbs": "2c90e5b96214c50101643b31fd04607f",
@@ -34237,7 +34240,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市电梯安全条例_20180408.doc"
     },
     {
       "bbbs": "2c90e5bb6200722a0163443cd53f42f5",
@@ -34252,7 +34258,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "长治市辛安泉饮用水水源地保护条例_20180419.doc"
     },
     {
       "bbbs": "2c90e5ba6200715a0163eda6dafb6dd5",
@@ -34267,7 +34276,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "阳泉市道路交通安全管理条例_20180423.doc"
     },
     {
       "bbbs": "2c90e5ba6200715a0163ece2a66e6dbd",
@@ -34282,7 +34294,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "阳泉市城市绿化条例_20180423.doc"
     },
     {
       "bbbs": "2c90e5b965c6ae130165e572c4130095",
@@ -34297,7 +34312,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "山西省家庭教育促进条例_20180531.doc"
     },
     {
       "bbbs": "2c90e5ba6200715a01643b1a445e7720",
@@ -34312,7 +34330,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "云冈石窟保护条例_20180608.docx"
     },
     {
       "bbbs": "2c90e5b9681cdbbd0168277c123001d0",
@@ -34327,7 +34348,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eb1afb8016ec56893d6295b",
@@ -34342,7 +34366,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6a291d8f016ad82b6ef50de6",
@@ -34357,7 +34384,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba692e7f820169465f94401a8f",
@@ -34372,7 +34402,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816ea719d7016eafe9ad1a3c5b",
@@ -34387,7 +34420,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816ea719d7016eb00ac70c3f34",
@@ -34402,7 +34438,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816ea719d7016eb015382f408e",
@@ -34417,22 +34456,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff8080816ea719d7016eafe17c793b99",
-      "title": "山西省汾河流域水污染防治条例",
-      "gbrq": "2018-09-30",
-      "sxrq": "2018-09-30",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816ea719d7016eb01c111440fc",
@@ -34447,7 +34474,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816ea719d7016eb077c2984623",
@@ -34462,7 +34492,28 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8080816ea719d7016eafe17c793b99",
+      "title": "山西省汾河流域水污染防治条例",
+      "gbrq": "2018-09-30",
+      "sxrq": "2018-09-30",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816ea719d7016eb01eab9d4137",
@@ -34477,7 +34528,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816ea719d7016eafdaf0783aab",
@@ -34492,7 +34546,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816ea719d7016eb00f9ae63fbd",
@@ -34507,7 +34564,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5bb692e81550169fae1de1370c3",
@@ -34522,7 +34582,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5bb692e81550169db78f8966f0a",
@@ -34537,7 +34600,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b9692e82530169faba1fb56f5a",
@@ -34552,37 +34618,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "2c90e5bb692e815501694d2b262a1e99",
-      "title": "山西省农作物种子条例",
-      "gbrq": "2018-11-30",
-      "sxrq": "2019-03-01",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736bb19d0173f01d85a83e67",
-      "title": "山西省大气污染防治条例",
-      "gbrq": "2018-11-30",
-      "sxrq": "2019-01-01",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081736bb19d0173f046fc253f4b",
@@ -34597,7 +34636,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "山西省实施《中华人民共和国村民委员会组织法》办法_20181130.doc"
     },
     {
       "bbbs": "2c90e5ba692e7f820169dbe9780d6df5",
@@ -34612,7 +34654,46 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "运城市禁止燃放烟花爆竹规定_20181130.doc"
+    },
+    {
+      "bbbs": "2c90e5bb692e815501694d2b262a1e99",
+      "title": "山西省农作物种子条例",
+      "gbrq": "2018-11-30",
+      "sxrq": "2019-03-01",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736bb19d0173f01d85a83e67",
+      "title": "山西省大气污染防治条例",
+      "gbrq": "2018-11-30",
+      "sxrq": "2019-01-01",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5b9692e8253016947cb37221cb8",
@@ -34627,7 +34708,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市文瀛湖保护条例_20181203.docx"
     },
     {
       "bbbs": "2c90e5bb692e8155016947e0765d1c79",
@@ -34642,7 +34726,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市御河流域生态保护条例_20181203.docx"
     },
     {
       "bbbs": "2c90e5ba692e7f82016998f6d4c5683d",
@@ -34657,7 +34744,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "太原市垃圾分类管理条例_20181205.docx"
     },
     {
       "bbbs": "2c90e5b9692e825301694bc332f01e33",
@@ -34672,7 +34762,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "晋城市太行古堡群保护条例_20181205.docx"
     },
     {
       "bbbs": "2c90e5bb692e815501695b22d53b3853",
@@ -34687,7 +34780,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "太原市老年人权益保障办法_20181205.docx"
     },
     {
       "bbbs": "2c90e5ba692e7f8201694b4d65ee1d5b",
@@ -34702,7 +34798,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "晋城市大气污染防治条例_20181205.docx"
     },
     {
       "bbbs": "2c90e5ba692e7f820169dbf9a1fd6e10",
@@ -34717,7 +34816,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "运城市涑水河流域生态修复与保护条例_20181210.doc"
     },
     {
       "bbbs": "2c90e5ba692e7f820169dbdd00d66ddd",
@@ -34732,7 +34834,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5bb692e8155016998db85de68db",
@@ -34747,7 +34852,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5bb692e81550169faaa22156fcd",
@@ -34762,7 +34870,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba692e7f8201699dd298ad68d1",
@@ -34777,7 +34888,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5f24f017345e331db47cc",
@@ -34792,7 +34906,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5f24f0172b6be9b760079",
@@ -34807,7 +34924,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080817321d556017345d1359a1752",
@@ -34822,7 +34942,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080817321d556017345ec43cb17fe",
@@ -34837,7 +34960,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816fbc57c101710657771f7679",
@@ -34852,7 +34978,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5bb6a291f86016be007983e31c4",
@@ -34867,7 +34996,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eea6bee016f0e1b10a0658e",
@@ -34882,7 +35014,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808174681d4a01747209e8660e9c",
@@ -34897,7 +35032,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808174686e4f01747206ae5f047d",
@@ -34912,7 +35050,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6a291d8f016e008b0fb9059a",
@@ -34927,7 +35068,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c90e5ba6a291d8f016dfcbc07d10512",
@@ -34942,7 +35086,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081736bb19d017451a86dc00f2c",
@@ -34957,7 +35104,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5f6e301730d8a7a702817",
@@ -34972,7 +35122,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808174686e4f017475f23ce50821",
@@ -34987,7 +35140,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "长治市不可移动文物保护条例_20190409.docx"
     },
     {
       "bbbs": "ff808081736bb19d017451b014ee0f4f",
@@ -35002,7 +35158,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "阳泉市市容和环境卫生管理条例_20190409.docx"
     },
     {
       "bbbs": "ff808081713927d1017180c481205753",
@@ -35017,7 +35176,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "运城市农村环境卫生管理办法_20190410.docx"
     },
     {
       "bbbs": "ff80808172b5fee80172b6f2f8bb011f",
@@ -35032,7 +35194,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "山西省企业投资项目承诺制规定_20190530.docx"
     },
     {
       "bbbs": "ff80808172b5f6e30172bfe752ef0587",
@@ -35047,7 +35212,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "山西省防震减灾条例_20190530.docx"
     },
     {
       "bbbs": "ff80808172b5f6e30172bff0cb2805a0",
@@ -35062,7 +35230,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "山西省建设工程勘察设计管理条例_20190530.docx"
     },
     {
       "bbbs": "ff80808172b5f6e30172bffb50f305b9",
@@ -35077,7 +35248,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "山西省建设工程抗震设防条例_20190530.docx"
     },
     {
       "bbbs": "ff80808172b5fee80172bfd855cf04cc",
@@ -35092,7 +35266,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "山西省道路运输条例_20190530.docx"
     },
     {
       "bbbs": "ff80808174681d4a01747ae9dfd212c4",
@@ -35107,7 +35284,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "朔州市人民代表大会代表议案的提出和处理办法_20190605.docx"
     },
     {
       "bbbs": "ff80808174686e4f01747ae5fda309db",
@@ -35122,7 +35302,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5fee80172f8854c251b39",
@@ -35137,7 +35320,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5fee80172f89169091b6a",
@@ -35152,7 +35338,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5f6e30172f88a10281cd9",
@@ -35167,217 +35356,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736ba74201744e1b73d70b2d",
-      "title": "云冈石窟保护条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736bb19d0174344ce1a97df9",
-      "title": "大同市企业集体合同条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736ba74201744c519d61069f",
-      "title": "大同市行政执法责任制条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736ba742017433f8d50f78c0",
-      "title": "大同市学校校园和周边环境保护条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff8080817321d5560173460037981837",
-      "title": "大同市餐厨废弃物管理条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736ba74201744799ab360453",
-      "title": "大同市村务公开条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736ba7420174346d47237b55",
-      "title": "大同市企务公开条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff80808172b5fee80172fa1d7ed61d1d",
-      "title": "大同市乡镇人民代表大会工作条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736ba74201744cafc002083a",
-      "title": "大同市再生资源回收利用管理条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736bb19d01744e08caa80dd3",
-      "title": "大同市智慧城市促进条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736bb19d01744e13763d0e01",
-      "title": "大同市电梯安全条例",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff80808172b5f6e30172fa1fa5131f39",
-      "title": "大同市人民代表大会常务委员会加强同代表联系充分发挥代表作用的办法",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736ba742017433e308207860",
-      "title": "大同市市政设施管理办法",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff808081736bb19d017433f01a2f7c66",
-      "title": "大同市户外广告管理规定",
-      "gbrq": "2019-08-09",
-      "sxrq": "2019-10-01",
-      "sxx": 3,
-      "zdjgName": "大同市人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081736bb19d01744db9de220c69",
@@ -35392,7 +35374,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市气象设施和探测环境保护条例_20190809.doc"
     },
     {
       "bbbs": "ff80808174686e4f017471d31ac20446",
@@ -35407,7 +35392,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市建筑节能条例_20190809.doc"
     },
     {
       "bbbs": "ff808081736ba74201744dda79bb0a00",
@@ -35422,7 +35410,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市人民防空工程建设和管理条例_20190809.doc"
     },
     {
       "bbbs": "ff808081736ba74201744daf497d0963",
@@ -35437,7 +35428,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市河道管理条例_20190809.doc"
     },
     {
       "bbbs": "ff808081736bb19d0174340b76847cea",
@@ -35452,7 +35446,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市建筑安全生产监督管理条例_20190809.doc"
     },
     {
       "bbbs": "ff808081736ba74201744c66b5d40735",
@@ -35467,7 +35464,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市煤炭资源保护办法_20190809.doc"
     },
     {
       "bbbs": "ff808081736bb19d017433d21f197bda",
@@ -35482,7 +35482,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市体育市场管理办法_20190809.doc"
     },
     {
       "bbbs": "ff808081736bb19d01744ca81c4f0a77",
@@ -35497,7 +35500,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市饮用水水源保护条例_20190809.doc"
     },
     {
       "bbbs": "ff808081736ba74201744cac2b5f0808",
@@ -35512,7 +35518,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "大同市城市供热条例_20190809.doc"
     },
     {
       "bbbs": "ff808081736bb19d01744dadbff10c2d",
@@ -35527,7 +35536,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081736ba74201744dfae7690aa2",
@@ -35542,7 +35554,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081736bb19d01744c5c5c96096e",
@@ -35557,7 +35572,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081736ba74201744c5fd7c006f6",
@@ -35572,7 +35590,28 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736ba74201744e1b73d70b2d",
+      "title": "云冈石窟保护条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081736ba7420174474a17b403af",
@@ -35587,7 +35626,244 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736bb19d0174344ce1a97df9",
+      "title": "大同市企业集体合同条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736ba74201744c519d61069f",
+      "title": "大同市行政执法责任制条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736ba742017433f8d50f78c0",
+      "title": "大同市学校校园和周边环境保护条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8080817321d5560173460037981837",
+      "title": "大同市餐厨废弃物管理条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736ba7420174346d47237b55",
+      "title": "大同市企务公开条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736ba74201744799ab360453",
+      "title": "大同市村务公开条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff80808172b5fee80172fa1d7ed61d1d",
+      "title": "大同市乡镇人民代表大会工作条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736ba74201744cafc002083a",
+      "title": "大同市再生资源回收利用管理条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736bb19d01744e08caa80dd3",
+      "title": "大同市智慧城市促进条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736bb19d01744e13763d0e01",
+      "title": "大同市电梯安全条例",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff80808172b5f6e30172fa1fa5131f39",
+      "title": "大同市人民代表大会常务委员会加强同代表联系充分发挥代表作用的办法",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736ba742017433e308207860",
+      "title": "大同市市政设施管理办法",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736bb19d017433f01a2f7c66",
+      "title": "大同市户外广告管理规定",
+      "gbrq": "2019-08-09",
+      "sxrq": "2019-10-01",
+      "sxx": 3,
+      "zdjgName": "大同市人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5f24f0173319f2f313d77",
@@ -35602,7 +35878,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5fee80172ca31d36c094c",
@@ -35617,7 +35896,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5f24f0172deb990b512f1",
@@ -35632,7 +35914,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080817321d5560173327c9b510e31",
@@ -35647,7 +35932,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081713927d10171a64365900a7f",
@@ -35662,7 +35950,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816f21a161016f27aa960b1097",
@@ -35677,7 +35968,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816eea6bee016efe53a696475d",
@@ -35692,22 +35986,10 @@
       "flfgCodeId": 230,
       "score": 0.0,
       "my_dir": "地方法规/山西",
-      "my_cate": 13
-    },
-    {
-      "bbbs": "ff80808172b5f24f0172df1a77a7141f",
-      "title": "山西省促进雁门关农牧交错带发展条例",
-      "gbrq": "2019-11-29",
-      "sxrq": "2020-01-01",
-      "sxx": 3,
-      "zdjgName": "山西省人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "地方法规",
-      "zdjgCodeId": 200,
-      "flfgCodeId": 230,
-      "score": 0.0,
-      "my_dir": "地方法规/山西",
-      "my_cate": 13
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5fee80172df131a031337",
@@ -35753,6 +36035,24 @@
       "score": 0.0,
       "my_dir": "地方法规/山西",
       "my_cate": 13
+    },
+    {
+      "bbbs": "ff80808172b5f24f0172df1a77a7141f",
+      "title": "山西省促进雁门关农牧交错带发展条例",
+      "gbrq": "2019-11-29",
+      "sxrq": "2020-01-01",
+      "sxx": 3,
+      "zdjgName": "山西省人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "地方法规",
+      "zdjgCodeId": 200,
+      "flfgCodeId": 230,
+      "score": 0.0,
+      "my_dir": "地方法规/山西",
+      "my_cate": 13,
+      "my_status": 200,
+      "my_time": "20250916T024131+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808172b5fee80172e007c2bd1541",
