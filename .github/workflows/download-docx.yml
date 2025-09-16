@@ -1,9 +1,9 @@
 name: Download docs
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   schedule:
     - cron: "*/20 * * * *"
   workflow_dispatch:
@@ -40,7 +40,7 @@ jobs:
         # if: github.event.schedule == '0 4 * * *'
         run: |
           pushd ${{ env.SRC_NAME }} && 
-          bash scripts/run-docx.sh v2a 100 &&
+          bash scripts/run-docx.sh v2a,v2b,v2c,v2d 150 &&
           popd
 
       - name: Git auto commit
