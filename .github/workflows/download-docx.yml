@@ -1,11 +1,12 @@
 name: Download docs
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   schedule:
     - cron: "*/15 * * * *"
+    - cron: "15 14 * * 2"
   workflow_dispatch:
 
 jobs:
@@ -18,6 +19,7 @@ jobs:
     env:
       USER: qundao
       SRC_NAME: law-meta
+      COUNT: 150
 
     steps:
       - uses: actions/checkout@v4
@@ -36,11 +38,19 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Run script page
-        # if: github.event.schedule == '0 4 * * *'
+      - name: Update parameter
         run: |
+          if [ "${{ github.event.schedule }}" == "15 14 * * 2" ]; then
+            echo "COUNT=300" >> $GITHUB_ENV
+          fi
+
+      - name: Run download
+        # if: github.event.schedule == '5 */12 * * *'
+        run: |
+          count=${{ env.COUNT }}
+          echo "Update count = $count"
           pushd ${{ env.SRC_NAME }} && 
-          bash scripts/run-docx.sh v2a,v2b,v2c,v2d 150 &&
+          bash scripts/run-docx.sh v2a,v2b,v2c,v2d $count &&
           popd
 
       - name: Git auto commit
