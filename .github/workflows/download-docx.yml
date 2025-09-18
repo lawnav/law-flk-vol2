@@ -19,7 +19,7 @@ jobs:
     env:
       USER: qundao
       SRC_NAME: law-meta
-      COUNT: 150
+      COUNT: 100
 
     steps:
       - uses: actions/checkout@v4
@@ -41,7 +41,7 @@ jobs:
       - name: Update parameter
         run: |
           if [ "${{ github.event.schedule }}" == "15 14 * * 2" ]; then
-            echo "COUNT=300" >> $GITHUB_ENV
+            echo "COUNT=200" >> $GITHUB_ENV
           fi
 
       - name: Run download
