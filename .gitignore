@@ -15,6 +15,7 @@ temp/
 temp-*/
 data/
 text/
+law-*/
 source/
 
 *.txt
