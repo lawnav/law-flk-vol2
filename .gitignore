@@ -25,3 +25,4 @@ source/
 *.pdf
 *.json
 !records.json
+!duplicates.json
