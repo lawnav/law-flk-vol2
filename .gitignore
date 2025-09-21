@@ -10,17 +10,17 @@
 
 # local
 .trash/
-temp/
 trash/
+temp/
+temp-*/
 data/
 text/
-
-# temp.*
-# .github/
+source/
 
 *.txt
 *.csv
 *.tsv
+*.md
+*.pdf
 *.json
-
 !records.json

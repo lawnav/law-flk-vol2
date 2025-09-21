@@ -5,7 +5,7 @@ on:
   #   branches:
   #     - main
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "5 */12 * * *"
     - cron: "15 14 * * 2"
   workflow_dispatch:
 
@@ -17,9 +17,10 @@ jobs:
     permissions:
       contents: write
     env:
-      USER: qundao
-      SRC_NAME: law-meta
-      COUNT: 100
+      USER: ${{ github.repository_owner }}
+      REPO_NAME: ${{ secrets.REPO }}
+      SRC_NAME: source
+      COUNT: 50
 
     steps:
       - uses: actions/checkout@v4
@@ -27,7 +28,7 @@ jobs:
       - name: Checkout src repo
         uses: actions/checkout@v4
         with:
-          repository: ${{ env.USER }}/${{ env.SRC_NAME }}
+          repository: ${{ env.USER }}/${{ env.REPO_NAME }}
           token: ${{ secrets.GH_TOKEN }}
           path: ${{ env.SRC_NAME }}
           fetch-depth: 1
@@ -44,22 +45,21 @@ jobs:
             echo "COUNT=200" >> $GITHUB_ENV
           fi
 
-      - name: Run download
-        # if: github.event.schedule == '5 */12 * * *'
+      - name: Run download Docx
         run: |
           count=${{ env.COUNT }}
           echo "Update count = $count"
           pushd ${{ env.SRC_NAME }} && 
-          bash scripts/run-docx.sh v2a,v2b,v2c,v2d $count &&
+          bash scripts/run-docx.sh v2a,v2b,v2c,v2d $COUNT &&
           popd
 
       - name: Git auto commit
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_user_name: "github-actions[bot]"
           commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           commit_message: Automated update
           # commit_options: '--no-verify --signoff'
-          push_options: "--force"
+          # push_options: "--force"
           file_pattern: "*.json *.docx *.doc"
